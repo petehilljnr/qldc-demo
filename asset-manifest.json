@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/qldc-demo/static/css/main.bfdc3ad6.chunk.css",
+    "main.js": "/qldc-demo/static/js/main.c6f79bd2.chunk.js",
+    "main.js.map": "/qldc-demo/static/js/main.c6f79bd2.chunk.js.map",
+    "runtime-main.js": "/qldc-demo/static/js/runtime-main.ff13acbc.js",
+    "runtime-main.js.map": "/qldc-demo/static/js/runtime-main.ff13acbc.js.map",
+    "static/js/2.868bca35.chunk.js": "/qldc-demo/static/js/2.868bca35.chunk.js",
+    "static/js/2.868bca35.chunk.js.map": "/qldc-demo/static/js/2.868bca35.chunk.js.map",
+    "static/js/3.32263ef8.chunk.js": "/qldc-demo/static/js/3.32263ef8.chunk.js",
+    "static/js/3.32263ef8.chunk.js.map": "/qldc-demo/static/js/3.32263ef8.chunk.js.map",
+    "index.html": "/qldc-demo/index.html",
+    "static/css/main.bfdc3ad6.chunk.css.map": "/qldc-demo/static/css/main.bfdc3ad6.chunk.css.map",
+    "static/js/2.868bca35.chunk.js.LICENSE.txt": "/qldc-demo/static/js/2.868bca35.chunk.js.LICENSE.txt",
+    "static/media/qldc.d66fb60f.png": "/qldc-demo/static/media/qldc.d66fb60f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff13acbc.js",
+    "static/js/2.868bca35.chunk.js",
+    "static/css/main.bfdc3ad6.chunk.css",
+    "static/js/main.c6f79bd2.chunk.js"
+  ]
+}
