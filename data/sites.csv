@@ -1,807 +1,807 @@
-"","system_id","est_cost","status","ward","onrcoutcome","projectname","activity_class"
-"1",9699,475000,"C","WAKATIPU","Safety","Andrews Road Access",
-"2",9700,20000,"D","WAKATIPU","Safety","Glenorchy Rd at Sunshine Bay pedestrian facility","WC"
-"3",9701,19726,"C","WAKATIPU","Safety","Boyes at McBride shorten ped. crossing point Part 1",
-"4",9702,2000,"C","WAKATIPU","Safety","Arrowtown Bowling Club",
-"5",9703,17500,"D","WAKATIPU","TTR","ArwTwn-LH Rd destination sign","LR"
-"6",9704,17500,"D","WAKATIPU","TTR","Malaghans Rd destination sign","LR"
-"7",9705,4000,"C","WANAKA","Safety","SCHOOL ZONE 40 warning signs",
-"8",9706,5000,"C","WANAKA","Safety","Cardona Valley Road Markings",
-"9",9707,7500,"C","WANAKA","Safety","McDougall Street Crossing",
-"10",9708,2e+05,"C","WANAKA","Resilience","Kane Road seal widening",
-"11",9709,7000,"C","WANAKA","Safety","Aubrey Rd New Pedestrian Cross",
-"12",9710,1000,"C","WANAKA","TTR","Riverbank Rd Signage",
-"13",9711,10000,"C","WANAKA","Safety","Rata St Pedestrian Crossing",
-"14",9715,1e+05,"C","WAKATIPU","Safety","Speargrass Flat Rd intersection upgrade",
-"15",9716,95000,"D","WAKATIPU","Safety","Gorge Road in Arthurs Point footpath","WC"
-"16",9717,100001,"C","WAKATIPU","Safety","Coronet Peak Rd Safety Upgrade",
-"17",9718,30000,"C","WANAKA","Safety","Lagoon Avenue install footpath",
-"18",9719,11000,"C","WAKATIPU","Safety","Manse Road Traffic Calming",
-"19",9720,5500,"C","WAKATIPU","Safety","Hunter Rd school bus stop",
-"20",9721,9000,"C","WAKATIPU","Safety","Hallenstein St Guardrail",
-"21",9722,3600,"C","WAKATIPU","Safety","Robertson St (west) lighting",
-"22",9724,20000,"D","WAKATIPU","Safety","Arthurs Point Rd Lights","LR"
-"23",9725,7500,"C","WANAKA","Safety","Lake View Terrace Footpath",
-"24",9726,30000,"C","WANAKA","Safety","Lagoon Avenue Footpath",
-"25",9727,1e+05,"D","WAKATIPU","TTR","Hylton Place Widening","LR"
-"26",9728,9000,"C","WANAKA","Safety","Gladstone Rd School Signage",
-"27",9729,5000,"C","WANAKA","Safety","Lismore Street Lighting",
-"28",9730,7500,"C","WANAKA","TTR","Reece Crescent Intersection",
-"29",9731,20000,"C","WANAKA","Safety","Gunn Road Crossing Point",
-"30",9732,12000,"C","WANAKA","Safety","Kirimoko Crescent Footpath",
-"31",9733,20000,"C","WANAKA","Safety","Riverbank Road  Intersection",
-"32",9734,30000,"D","WAKATIPU","Safety","Wynyard Crescent Lighting","LR"
-"33",9736,115000,"C","CROWN RANGE SPR","Safety","Crown Range Weather Station",
-"34",9737,1500000,"IC","GLENORCHY SPR","Safety","Bennetts Bluff alternative viewing area","R2Z"
-"35",9738,16500,"D","WANAKA","Safety","Wilkin Rd new footpath","WC"
-"36",9739,75000,"C","WANAKA","Safety","Ballantyne Rd New AC Footpath",
-"37",9740,10000,"D","WAKATIPU","Safety","McBride Street Lighting","LR"
-"38",9741,270000,"C","WANAKA","Safety","Beacon Point Rd Widening",
-"39",9742,20000,"D","WANAKA","Safety","Studholme Road streetlighting","LR"
-"40",9745,30000,"P","WANAKA","Safety","Old Wanaka Lighting Upgrade","LR"
-"41",9746,2500,"C","WAKATIPU","Accessibility","Cornwall St Lamp Post removed",
-"42",9748,20000,"IC","WAKATIPU","Safety","Lake Avenue speed management",
-"43",9749,9750,"C","WANAKA","Safety","Tourist Driver Project",
-"44",9750,18000,"C","CROWN RANGE SPR","Safety","Tourist Driver project",
-"45",9751,18000,"C","GLENORCHY SPR","Safety","Tourist Driver Project",
-"46",9753,60000,"N","WAKATIPU","Safety","Intersection flag lighting (ar",
-"47",9754,532400,"N","WAKATIPU","TTR","Transport strategy Queenstown",
-"48",9755,2e+05,"N","WANAKA","TTR","Transport strategy Wanaka",
-"49",9756,450000,"N","WAKATIPU","TTR","Transport strategy Frankton",
-"50",9757,0,"C","WAKATIPU","Safety","Montessori Arrowtown Safety",
-"51",9758,1e+05,"C","WANAKA","Safety","Mt Barker Notta seal east of Smith Rd",
-"52",9759,95000,"C","WANAKA","Safety","Mt Barker Rd at Boundary Rd Notta seal",
-"53",9760,60000,"C","WANAKA","Safety","Aubrey Rd Cycle Trail",
-"54",9761,24000,"C","WANAKA","Accessibility","Kingston St footpath surface",
-"55",9762,12000,"C","WANAKA","Safety","Aubrey Road Bus Bay",
-"56",9763,5800,"C","WANAKA","Safety","Riverbank Road Calming",
-"57",9764,13000,"C","WAKATIPU","Safety","McMillan Road playground footpath",
-"58",9765,4000,"C","WANAKA","Safety","Brownston St pedestrian fence",
-"59",9766,5000,"D","WAKATIPU","Safety","Allan Crescent pedestrian facility","WC"
-"60",9767,186000,"C","WAKATIPU","Accessibility","Glenda Drive crossing",
-"61",9768,7500,"C","WAKATIPU","Safety","Kinloch Sight Rail",
-"62",9770,4000,"C","WAKATIPU","Safety","Project Name",
-"63",9771,15000,"P","WANAKA","Safety","Monley Lane footpath","WC"
-"64",9773,20000,"C","WAKATIPU","Safety","Lake Ave McBride st island",
-"65",9775,48000,"C","WANAKA","Accessibility","Aubrey Rd footpath connection",
-"66",9776,10000,"C","WANAKA","Safety","Anderson Rd cycle facilities",
-"67",9777,527000,"IC","WANAKA","Accessibility","Path-Golf Course Rd to 3 Parks",
-"68",9778,18641,"C","WAKATIPU","Safety","Man St at Duke St pedestrian median island: Part 1",
-"69",9780,21000,"C","WAKATIPU","Safety","Hawthorne Dr at Lucas Pl footpath",
-"70",9781,3000,"D","WAKATIPU","Safety","Willow Pl lighting","LR"
-"71",9782,2000,"C","WAKATIPU","Safety","RemarksPS 40 advise schl zone",
-"72",9783,3e+05,"P","WANAKA","Safety","Aubrey Rd shared path west of Anderson - north side","WC"
-"73",9784,2e+05,"D","WANAKA","Safety","Alison Ave/Gunn Rd roundabout","R2Z"
-"74",9785,1000,"C","WANAKA","Safety","Alison Ave/Gunn Rd heavy vehicle restriction",
-"75",9786,50000,"D","WANAKA","Safety","Pedestrians, especially children (school and sports) crossing of Aubrey Rd to/from Rata St and Holy Family","WC"
-"76",9787,60000,"C","WANAKA","Safety","Aubrey Rd cycle lanes",
-"77",9788,1500,"D","WANAKA","Amenity","Bill poster for sales/events","LR"
-"78",9789,3000,"C","WAKATIPU","Safety","40 advisory school zone",
-"79",9790,15000,"D","WAKATIPU","Safety","Jones Ave at Myles Way pedestrian facility","WC"
-"80",9791,24236,"C","WAKATIPU","Safety","Von Rd upgrade for cyclists",
-"81",9793,2000,"C","WAKATIPU","Safety","Church St at parking exit pedestrian mirror",
-"82",9794,5000,"C","WAKATIPU","Safety","Searle Lane CCTV and S/Light",
-"83",9795,5000,"C","WAKATIPU","Safety","Beach Street Pedestrianisation",
-"84",9796,19000,"C","WANAKA","Safety","Hedditch St to Little St footpath",
-"85",9797,120000,"C","WANAKA","Safety","Lismore to Little footpath",
-"86",9798,200,"C","WANAKA","TTR","Sign to Tenby S Presbyt Church",
-"87",9799,60000,"C","WANAKA","Safety","Tidy up of Hawea shops area",
-"88",9800,700,"C","WANAKA","Safety","Bodkin requires S/light",
-"89",9801,750,"D","WAKATIPU","Safety","Light up Ramshaw Steps","LR"
-"90",9803,0,"C","WAKATIPU","Safety","Judge and Jury Ln centreline",
-"91",9804,1000,"C","WAKATIPU","Safety","Jones Ave X-intersection",
-"92",9805,300,"C","WAKATIPU","TTR","Watties Track No Exit sign",
-"93",9806,150,"C","WAKATIPU","Resilience","Grove Ln road sign",
-"94",9807,2500,"D","WAKATIPU","Safety","110 Hallenstein new street light","LR"
-"95",9808,2500,"D","WAKATIPU","Safety","Cambridge St at Cornwall St new street light","LR"
-"96",9809,20000,"C","WANAKA","Safety","Brownston St raising drainage grates",
-"97",9810,9000,"D","WAKATIPU","Safety","Hawthorn Dr at New World ped X-ing upgrade","WC"
-"98",9811,4500,"C","WANAKA","Safety","Ardmore BP forecourt/footpath",
-"99",9812,52000,"C","WAKATIPU","Accessibility","Robertson St footpath connection",
-"100",9813,70000,"C","WANAKA","Accessibility","Bernard Rd footpath",
-"101",9814,15164,"C","WAKATIPU","Safety","Ballarat St carpark to Stanley St stairs upgrade",
-"102",9815,85000,"C","WAKATIPU","Safety","Glenorchy Rd path to pump station",
-"103",9816,51836,"C","WAKATIPU","Safety","1 Mile carpark pedestrian facility",
-"104",9817,30000,"D","WAKATIPU","Accessibility","Footpath across Nerin Sqr","WC"
-"105",9818,10000,"C","WAKATIPU","Safety","Stalker Rd kea crossing",
-"106",9819,8438,"C","WAKATIPU","Safety","Fernhill playgrnd ped X point Pt 1",
-"107",9820,25778,"IC","WAKATIPU","Safety","Fernhill Rd at Avalon Cres ped crossing point",
-"108",9821,42000,"D","WAKATIPU","Safety","Fernhill ped X near Watts","WC"
-"109",9822,70000,"C","WAKATIPU","Safety","Quail Rise footpath to Tucker Beach Rd",
-"110",9823,150000,"D","WAKATIPU","Safety","Tucker Beach Rd footpath to bus stop","WC"
-"111",9824,0,"C","WAKATIPU","Accessibility","Ballarat St at Hallenstein St footpath widening",
-"112",9825,250000,"D","WANAKA","Accessibility","Camphill path from Lachlan Ave to the river","WC"
-"113",9826,3600,"C","WAKATIPU","TTR","Frankton Sd access signs",
-"114",9828,67000,"C","WANAKA","Safety","Mt Roy path link",
-"115",9829,3e+05,"C","WANAKA","Safety","Mt Roy entrance upgrade",
-"116",9830,3e+05,"N","WANAKA","Accessibility","Wanaka biking facilities",
-"117",9831,3e+05,"N","WANAKA","Accessibility","Wanaka biking facilities",
-"118",9832,3e+05,"N","WANAKA","Accessibility","Wanaka biking facilities",
-"119",9833,50000,"N","WANAKA","Accessibility","Wanaka on-street wayfinding signage",
-"120",9834,50000,"N","WANAKA","VfM","Wanaka transport communications",
-"121",9838,50000,"C","WAKATIPU","Safety","Frankton 48 hour",
-"122",9839,50000,"N","WANAKA","Safety","Cardrona Valley Rd safety improvements",
-"123",9840,1100000,"P","WANAKA","Safety","Anderson Rd corridor upgrades","LR"
-"124",9841,3e+05,"N","WANAKA","Safety","SH6/84/Riverbank intersection improvement",
-"125",9842,250000,"N","WANAKA","Safety","Urban Ballantyne Rd upgrade",
-"126",9843,3e+05,"N","WANAKA","Safety","Urban Ballantyne Rd upgrade",
-"127",9844,7e+05,"N","WANAKA","Safety","Urban Ballantyne Rd upgrade",
-"128",9846,8e+05,"N","WANAKA","Safety","SH6/84/Riverbank intersection improvement",
-"129",9847,5e+05,"N","WANAKA","Safety","Cardrona Valley Rd safety improvements",
-"130",9848,787000,"N","WANAKA","Safety","LCLR Wanaka",
-"131",9849,228800,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"132",9850,787000,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"133",9851,149100,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"134",9852,813000,"N","WANAKA","Safety","LCLR Wanaka",
-"135",9853,864000,"N","WANAKA","Safety","LCLR Wanaka",
-"136",9854,49200,"N","WANAKA","Safety","LCLR Wanaka",
-"137",9855,118450,"N","WANAKA","Safety","LCLR Wanaka",
-"138",9856,337700,"N","WANAKA","Safety","LCLR Wanaka",
-"139",9857,506950,"N","WANAKA","Safety","LCLR Wanaka",
-"140",9858,526200,"N","WANAKA","Safety","LCLR Wanaka",
-"141",9859,395450,"N","WANAKA","Safety","LCLR Wanaka",
-"142",9860,564700,"N","WANAKA","Safety","LCLR Wanaka",
-"143",9861,813000,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"144",9862,864000,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"145",9863,449200,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"146",9864,486450,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"147",9865,487700,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"148",9866,506950,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"149",9867,526200,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"150",9868,545450,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"151",9869,564700,"N","WAKATIPU","Safety","LCLR Wakatipu",
-"152",9870,137500,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"153",9871,129900,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"154",9872,59800,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"155",9873,55000,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"156",9874,50250,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"157",9875,45450,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"158",9876,40600,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"159",9877,35850,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"160",9878,31050,"N","GLENORCHY SPR","Safety","LCLR Glenorchy SPR",
-"161",9879,189200,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"162",9880,200500,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"163",9881,88950,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"164",9882,81900,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"165",9883,74800,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"166",9884,67750,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"167",9885,60650,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"168",9886,53600,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"169",9887,46500,"N","CROWN RANGE SPR","Safety","LCLR Crown Range SPR",
-"170",9888,10000,"C","WANAKA","Safety","Hidden Hills Drv intersection street light",
-"171",9889,30000,"C","WAKATIPU","Safety","Hope Ave parking at playground",
-"172",9890,1000,"C","WAKATIPU","Safety","Adamson pedestrian protection",
-"173",9891,50000,"C","WANAKA","Safety","Moraine footpath connection",
-"174",9892,1500,"C","WAKATIPU","Amenity","Wheelstops and grass protection",
-"175",9893,10000,"D","WAKATIPU","Safety","Caernarvon St pedestrian facility for kindy","WC"
-"176",9894,500,"C","WAKATIPU","Safety","Widen Manse Rd speed cushions",
-"177",9895,500,"C","WAKATIPU","Accessibility","Formalise Adamson bus stop",
-"178",9896,25000,"C","WAKATIPU","Safety","Villers St guardrail",
-"179",9898,65000,"C","WAKATIPU","Safety","Malaghans Rd lavender farm guardrail extension",
-"180",9899,121594,"C","WANAKA","Safety","Nook Rd & Hawea Back Rd intersection upgrade Pt.1",
-"181",9900,1,"C","WANAKA","Safety","Hawea Back Rd at Gray Rd bus stop",
-"182",9901,300,"C","WANAKA","Safety","Gray Rd school bus route sign",
-"183",9902,300,"C","WANAKA","Safety","Nook Rd T-intersection sign on Hawea Back Rd",
-"184",9903,300,"C","WANAKA","Safety","Hawea Back Rd school bus route sign",
-"185",9904,20000,"C","WANAKA","Amenity","Cappell Ave at tennis courts road edge upgrade",
-"186",9905,5000,"C","WANAKA","Safety","Capell Ave - Bodkin St to toilets footpath",
-"187",9906,62000,"C","WAKATIPU","Amenity","Ramshaw Ln car park project top-up",
-"188",9907,500,"C","WAKATIPU","Accessibility","Frankton corner shops No Passenger Veh Parking",
-"189",9908,1500,"D","WAKATIPU","Amenity","Sainsbury Rd no large passenger vehicle parking","LR"
-"190",9909,500,"C","WAKATIPU","Safety","Malaghans 70km/h repeater",
-"191",9911,26500,"D","WAKATIPU","Safety","Gibbston Road Ottaseal","LR"
-"192",9912,1000,"C","WANAKA","Accessibility","Winery signage",
-"193",9913,1591.85,"C","WANAKA","VfM","Myra St street light upgrade",
-"194",9914,3344.17,"C","WANAKA","Safety","Peter Fraser Park car park twin head street light",
-"195",9915,9290,"C","WAKATIPU","Safety","Buckingham St library antique light",
-"196",9916,85000,"D","WAKATIPU","Safety","Ballarat St at Stanley St SE corner footpath upgrade","WC"
-"197",9917,50000,"C","WAKATIPU","Safety","Hallenstein St at Weaver speed treatment",
-"198",9918,10000,"C","WAKATIPU","Safety","Morries Ln traffic calming",
-"199",9919,8000,"C","WAKATIPU","Accessibility","Accessway to 285-259 parking management",
-"200",9921,1040000,"P","WANAKA","Safety","Wanaka town centre shared space",
-"201",9922,26000,"N","WANAKA","Safety","Dangerous trees Wanaka",
-"202",9923,50000,"N","CROWN RANGE SPR","Resilience","Resilience Crown Range SPR",
-"203",9924,5e+05,"N","WAKATIPU","TTR","Edith Cavell Bridge duplication - interim solution",
-"204",9925,41000,"N","WAKATIPU","Safety","Dangerous trees Wakatipu",
-"205",9926,15000,"D","GLENORCHY SPR","Safety","Dangerous trees Glenorchy SPR","LR"
-"206",9927,3e+05,"N","GLENORCHY SPR","Resilience","Reslience projects Glenorchy SPR",
-"207",9929,1000,"C","WAKATIPU","Accessibility","46, 48 & 50 Judge and Jury Drv access sign",
-"208",9930,3000,"P","WANAKA","Safety","Stone St flag light","LR"
-"209",9931,3000,"P","WANAKA","Safety","Rodeo Dr flag light","LR"
-"210",9933,50000,"D","WAKATIPU","Safety","Brunswick St lighting upgrade","LR"
-"211",9934,300,"C","WANAKA","Accessibility","WRC directional sign",
-"212",9935,0,"C","WAKATIPU","Accessibility","Brecon St kindergartens sign",
-"213",9936,34183,"IC","WAKATIPU","Safety","Wynyard Cres pedestrian improvements",
-"214",9937,500,"C","WAKATIPU","Accessibility","Maori Jack Rd sign",
-"215",9938,8300,"C","WANAKA","Safety","Dungarvon St lighting reconfiguration",
-"216",9939,50000,"C","WANAKA","Safety","Capell Ave at Domain Rd intersection upgrade Part 1 Design",
-"217",9940,500,"C","WAKATIPU","Safety","No Exit St Georges Ave",
-"218",9941,0,"C","WAKATIPU","Safety","Mirror for ABBA Court Motel access","LR"
-"219",9942,10000,"D","WAKATIPU","Safety","Lucas Pl at airport northern side pedestrian direction","WC"
-"220",9943,500,"C","WAKATIPU","Safety","NO EXIT Woddley Pl",
-"221",9944,500,"C","WANAKA","Safety","Slippery gravel surface sign Gladston Rd",
-"222",9945,1000,"D","WANAKA","Amenity","Luggate pedestrian bridge repaint","LR"
-"223",9946,20000,"D","WAKATIPU","Safety","Stalker Rd before Regent St guardrail extension","R2Z"
-"224",9947,15000,"C","WAKATIPU","Accessibility","McBride - state highway pedestrian link",
-"225",9948,3231,"C","WAKATIPU","VfM","Berkshire Street Foothpath Remediation Pt 1",
-"226",9949,0,"C","WAKATIPU","Accessibility","Industrial Place - No Parking on Grass signage",
-"227",9950,500,"C","WANAKA","Accessibility","Ruby Island Rd - Signage 200m to Ruby Island Rd",
-"228",9952,5000,"D","WAKATIPU","Safety","Goldfield heights - handrail","WC"
-"229",9953,225000,"D","WAKATIPU","Safety","Malaghans at Dalefield Rd intersection improvements","R2Z"
-"230",9954,600,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"231",9955,43000,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 17.3km safety barrier",
-"232",9956,134395,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 17.9km safety barrier",
-"233",9957,174139.5,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 15.5km safety barrier",
-"234",9958,166203,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 24.9km safety barrier",
-"235",9959,202311,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 25.9km safety barrier",
-"236",9960,23020,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"237",9961,17970,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"238",9962,24500,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"239",9963,39450,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"240",9964,13400,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"241",9965,84160,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"242",9966,13400,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"243",9967,23000,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"244",9968,23000,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"245",9969,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"246",9970,19750,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"247",9971,19750,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"248",9972,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"249",9973,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"250",9974,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"251",9975,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"252",9976,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"253",9977,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"254",9978,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"255",9979,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"256",9980,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"257",9981,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"258",9982,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"259",9983,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"260",9984,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"261",9985,179866.67,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"262",9986,198500,"D","GLENORCHY SPR","Safety","Geotechnical Investigation","LR"
-"263",9987,4000,"D","GLENORCHY SPR","Safety","Line Marking","R2Z"
-"264",9988,13400,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"265",9989,18000,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"266",9990,25000,"D","GLENORCHY SPR","Safety","Safety barrier","R2Z"
-"267",9991,33080,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"268",9992,41465,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"269",9993,31000,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"270",9994,37760,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"271",9995,40000,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"272",9996,87000,"D","GLENORCHY SPR","Safety","Safety Barrier","LR"
-"273",9997,48970,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 30km safety barrier",
-"274",9998,43000,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"275",9999,40604,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"276",10000,141644.25,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"277",10001,118944,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"278",10002,52474,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 18.2km safety barrier",
-"279",10003,106200,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 19.2km safety barrier",
-"280",10004,118413,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"281",10005,91995.75,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"282",10006,105172.5,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"283",10007,77392,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"284",10008,1080000,"D","GLENORCHY SPR","Safety","Passing/ Slow vehicle Lane","LR"
-"285",10009,2016000,"D","GLENORCHY SPR","Safety","Passing/ Slow vehicle Lane","LR"
-"286",10010,2160000,"D","GLENORCHY SPR","Safety","Passing/ Slow vehicle Lane","LR"
-"287",10011,3600000,"D","GLENORCHY SPR","Safety","Passing/ Slow vehicle Lane","LR"
-"288",10012,2560000,"N","GLENORCHY SPR","Safety","Roading",
-"289",10014,77780,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"290",10015,90270,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"291",10016,83930,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"292",10017,83930,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"293",10018,126000,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"294",10019,122130,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"295",10020,64300,"D","GLENORCHY SPR","Safety","Safety Barrier","LR"
-"296",10021,70800,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"297",10022,134520,"D","GLENORCHY SPR","Safety","Safety Barrier","LR"
-"298",10023,7375,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"299",10024,14750,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","WC"
-"300",10025,242667,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"301",10026,233109,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"302",10027,188859,"C","GLENORCHY SPR","Safety","Glenorchy Rd at 26.5km safety barrier",
-"303",10028,161955,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"304",10029,345150,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"305",10030,157235,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"306",10031,175761,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"307",10032,397807.5,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"308",10033,159300,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"309",10034,175230,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"310",10035,73750,"D","GLENORCHY SPR","Safety","Mull St/Paradise Rd pedestrian facility","WC"
-"311",10036,147500,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"312",10037,29500,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","WC"
-"313",10038,250750,"D","GLENORCHY SPR","Safety","Safety Barrier","R2Z"
-"314",10039,368750,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"315",10040,125000,"C","GLENORCHY SPR","Safety","Mull St footpath",
-"316",10042,16500,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"317",10043,526000,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"318",10044,32000,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"319",10045,14750,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"320",10046,14750,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"321",10047,1315000,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"322",10048,44250,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"323",10049,70000,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"324",10050,88500,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","R2Z"
-"325",10051,14750,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"326",10052,106515,"D","GLENORCHY SPR","Safety","Bridges","R2Z"
-"327",10053,35505,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"328",10054,78900,"D","GLENORCHY SPR","Safety","Bridges","R2Z"
-"329",10055,8850000,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","R2Z"
-"330",10056,47340,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"331",10057,23670,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"332",10058,18410,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"333",10059,52600,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"334",10060,120000,"D","GLENORCHY SPR","Safety","Routeburn RP5600 bridge approach improvements","R2Z"
-"335",10061,1180000,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","LR"
-"336",10062,170950,"D","GLENORCHY SPR","Safety","Bridges","LR"
-"337",10063,88500,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","R2Z"
-"338",10064,368750,"D","GLENORCHY SPR","Safety","Misc. Safety Improvements","R2Z"
-"339",10065,0,"C","GLENORCHY SPR","Safety","signage",
-"340",10066,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"341",10067,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"342",10068,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"343",10069,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"344",10070,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"345",10071,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"346",10072,0,"C","GLENORCHY SPR","Safety","Signage","LR"
-"347",10073,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"348",10074,0,"C","GLENORCHY SPR","Safety","signage","LR"
-"349",10075,22500,"D","GLENORCHY SPR","Safety","signage","WC"
-"350",10076,5900,"D","GLENORCHY SPR","Safety","signage","R2Z"
-"351",10078,6750,"D","GLENORCHY SPR","Safety","signage","LR"
-"352",10079,6750,"D","GLENORCHY SPR","Safety","signage","LR"
-"353",10080,8850,"D","GLENORCHY SPR","Safety","signage","LR"
-"354",10081,9000,"D","GLENORCHY SPR","Safety","signage","R2Z"
-"355",10082,0,"C","GLENORCHY SPR","Safety","Mull St at 0.3km speed feedback sign",
-"356",10083,45000,"D","GLENORCHY SPR","Safety","signage","R2Z"
-"357",10084,11250,"D","GLENORCHY SPR","Safety","signage","LR"
-"358",10085,5625,"D","GLENORCHY SPR","Safety","signage","LR"
-"359",10093,16875,"C","CROWN RANGE SPR","Safety","Crown Range Rd guardrail @ RP16850",
-"360",10097,10122,"C","CROWN RANGE SPR","Safety","Crown Range summit car park entrance upgrade Pt 1",
-"361",10100,11250,"C","WAKATIPU","Safety","Crown Range Rd guardrail @ 12400",
-"362",10101,16875,"C","CROWN RANGE SPR","Safety","Crown Range Rd guardrail @ RP14511",
-"363",10102,14063,"C","CROWN RANGE SPR","Safety","Crown Range Rd guardrail @ RP14794",
-"364",10103,16875,"C","CROWN RANGE SPR","Safety","Crown Range Rd guardrail @ RP15038",
-"365",10105,22500,"C","WAKATIPU","Safety","Crown Range Rd guardrail @ RP16190",
-"366",10209,500,"C","WANAKA","Safety","Golf Course Rd elderly ped signs",
-"367",10210,300,"C","WANAKA","Accessibility","Ardmore St south of Lakeside Rd loading zone",
-"368",10212,3000,"D","WAKATIPU","Safety","Reconfig Hawthorn left turn into Remarks Park","R2Z"
-"369",10213,1000,"D","WANAKA","Safety","Motatapu Road - Corner signage","LR"
-"370",10214,20000,"D","WANAKA","Safety","Motatapu Rd bridge guradrail","R2Z"
-"371",10215,2e+05,"D","WAKATIPU","Accessibility","Larch Hill Pl/Panners Way - Pedestrian link","WC"
-"372",10216,0.01,"C","WAKATIPU","Safety","Brecon Street - Gondola roundabout",
-"373",10217,1000,"D","WAKATIPU","Safety","Hawthorne Dr at Glenda Dr cycling provisions","WC"
-"374",10218,10000,"D","WAKATIPU","Safety","Arrowtown Lake Hayes Road - Verge parking","LR"
-"375",10220,4000,"D","WAKATIPU","Safety","Alder Ave new footpath","WC"
-"376",10222,150,"C","WANAKA","Safety","Lakeview Tce children warning sign",
-"377",10223,10000,"D","WAKATIPU","Safety","Stalker Road - New footpath","WC"
-"378",10224,0,"C","WANAKA","Accessibility","Wanaka Airport - No Camping Signs",
-"379",10225,6000,"D","WAKATIPU","Safety","Centennial Ave pedestrian warning signs","WC"
-"380",10226,20000,"D","WAKATIPU","Safety","Riverside Rd traffic calming","R2Z"
-"381",10227,1000,"D","WAKATIPU","Safety","Oxenbridge Tunnel Rd entrance protection","R2Z"
-"382",10228,30000,"D","WAKATIPU","Safety","Centennial Avenue - School Crossing","WC"
-"383",10229,41675,"IC","WAKATIPU","Safety","Centennial Avenue - New footpath to school",
-"384",10230,30000,"D","WAKATIPU","Safety","Centennial Avenue - Traffic Calming","R2Z"
-"385",10231,25000,"P","WAKATIPU","Safety","Kingston library parking improvements","LR"
-"386",10232,5000,"D","WAKATIPU","Safety","Morries Lane - Traffic calming","R2Z"
-"387",10234,2000,"C","WANAKA","Safety","Dungarvon St - Pedestrian Crossing",
-"388",10236,15000,"D","WANAKA","Safety","Alison Avenue - Blind Corner treatment","R2Z"
-"389",10239,20000,"D","WAKATIPU","Safety","Robins Road - Traffic Calming","R2Z"
-"390",10240,10000,"D","WAKATIPU","Safety","Nairn Street - Traffic Calming","R2Z"
-"391",10241,500,"C","WANAKA","Accessibility","Hikuwai Dr - No River Access sign",
-"392",10242,0,"C","WAKATIPU","Safety","Richards Park Lane - Mirror",
-"393",10244,0,"C","WANAKA","Safety","McLennan Rd sharp corner signs","LR"
-"394",10246,0,"C","WAKATIPU","Amenity","Brecon St car park No Parking on Verge signs",
-"395",10247,45000,"D","WAKATIPU","Safety","McKerrrow Place - Streetlight review","LR"
-"396",10249,10000,"P","WANAKA","Safety","Ballantyne Rd - New Streetlight","LR"
-"397",10250,30000,"D","WAKATIPU","Safety","Frankton Bus Stop - Lighting","LR"
-"398",10251,5000,"D","WAKATIPU","Safety","Adamson Drive - Bus Stop Lighting","LR"
-"399",10252,0,"C","WAKATIPU","Safety","Mull St verge parking treatment","LR"
-"400",10253,30000,"D","WAKATIPU","Safety","Brunswick/Lake Esp intersection rejig","R2Z"
-"401",10254,5e+05,"D","WAKATIPU","Amenity","Oregon Drv kerbs and channels (stormwater)","LR"
-"402",10256,40000,"D","WAKATIPU","Safety","Maxwell Pl barrier","R2Z"
-"403",10257,0,"C","WAKATIPU","Safety","Dalefield cycle safety","LR"
-"404",10258,10000,"D","WAKATIPU","Safety","Bridesdale entrance traffic calming","R2Z"
-"405",10259,20000,"D","WAKATIPU","Safety","Lucus Pl pedestrian crossing points","WC"
-"406",10260,3000,"D","WAKATIPU","Safety","Denbeigh/Stafford sight distance issues","LR"
-"407",10261,50000,"C","WANAKA","Amenity","Luggate car park improvements",
-"408",10262,35000,"D","WAKATIPU","Safety","Arthurs Pt Rd footpath to bus stop","WC"
-"409",10263,1e+05,"C","WAKATIPU","Safety","Kinloch Rd raising - location 2",
-"410",10264,10000,"C","WAKATIPU","Safety","Dalefield Rd S-bend guardrail",
-"411",10266,50000,"D","WAKATIPU","Safety","Lower Shotover Rd safety improvements Part 1. Design","R2Z"
-"412",10267,50000,"D","WANAKA","Amenity","Unsealed Beacon Point Rd dust treatment","LR"
-"413",10268,50000,"D","WAKATIPU","Safety","Tucker Beach Rd sharp bend guardrail","R2Z"
-"414",10269,11486,"C","WAKATIPU","Safety","Thompson St traffic calming",
-"415",10270,10000,"C","WAKATIPU","Amenity","Searl Ln stormwater control for Taco Medic",
-"416",10271,5000,"C","WAKATIPU","Safety","1 Mile roundabout/car park block out",
-"417",10272,10000,"D","WAKATIPU","Safety","Trail accessway from Centennial traffic calming","R2Z"
-"418",10273,4e+05,"IC","WANAKA","Safety","Aubrey Rd cycle/walkway sealing - Section 1",
-"419",10274,1000,"D","WANAKA","Safety","Frederick St sight distance","LR"
-"420",10277,15000,"D","WAKATIPU","Safety","Turner St Lighting Upgrade","LR"
-"421",10278,35000,"D","WANAKA","Safety","Youghal street Lighting Upgrade","LR"
-"422",10279,35000,"D","WANAKA","Safety","Roche St lighting upgrade","LR"
-"423",10280,30000,"D","WANAKA","Safety","Dungarvon St lighting upgrade","LR"
-"424",10281,120000,"D","WANAKA","Safety","Ewing Pl Lighting Upgrade","LR"
-"425",10282,66000,"D","WAKATIPU","VfM","Lucus/Hawthorne/Riverside subsoil drainage","LR"
-"426",10283,75000,"D","WAKATIPU","Safety","Panorama Terrace Footpath widening","WC"
-"427",10284,20000,"D","WAKATIPU","Safety","Coronet Peak Rd base car park gate","LR"
-"428",10285,10000,"D","WAKATIPU","Safety","Arawata terrace bus shelter street light.","LR"
-"429",10286,20000,"D","WAKATIPU","Safety","Arawata fill-in lighting","LR"
-"430",10287,2000,"D","WAKATIPU","Amenity","Coal Pit Rd bus stop conversion","LR"
-"431",10288,10000,"D","WAKATIPU","Safety","Lake Ave traffic calming outside the FAT","WC"
-"432",10289,70000,"C","WAKATIPU","Safety","Redfern Tce guardrail/pedestrian fence",
-"433",10290,0,"C","WAKATIPU","Accessibility","Mull St toilet direction sign at Oban St",
-"434",10291,15000,"D","WAKATIPU","Safety","Lake Ave outside FAT street light.","LR"
-"435",10292,10000,"P","WANAKA","Safety","Lighting Lagoon Ave path south of Bernard","LR"
-"436",10293,5000,"D","WAKATIPU","Safety","Atley Road traffic calming","R2Z"
-"437",10294,10000,"D","WAKATIPU","Amenity","Possible drainage outside 53 Centennial","LR"
-"438",10295,20000,"D","WAKATIPU","Safety","Illumination of Hunter/Speargrass","LR"
-"439",10296,10000,"D","WAKATIPU","Safety","Frankton Rd accessways traffic calming","R2Z"
-"440",10297,2500,"D","WANAKA","Safety","Old Wanaka Firestation kerb upgrade","LR"
-"441",10298,87000,"D","GLENORCHY SPR","Safety","Traffic calming and slow vehicle management","R2Z"
-"442",10299,3e+05,"P","WAKATIPU","Safety","Glenda Dr footpath duplication and upgrade","WC"
-"443",10300,3100,"D","GLENORCHY SPR","Safety","signage","WC"
-"444",10302,50000,"D","WAKATIPU","Safety","Gy Rd road condition sign","R2Z"
-"445",10303,4965,"IC","WAKATIPU","Safety","Cow Ln pedestrian crossing",
-"446",10304,2000,"D","WAKATIPU","Safety","Shotover rat runs","R2Z"
-"447",10305,10000,"D","WAKATIPU","Safety","At-LH Rd speed feedback sign","R2Z"
-"448",10306,1e+05,"D","GLENORCHY SPR","Safety","Glenorchy Lagoon lookout","LR"
-"449",10307,2000,"D","WANAKA","Accessibility","Nichol to Grandview footpath connection","WC"
-"450",10308,10000,"D","WAKATIPU","Resilience","Chard farm Rd slip rebuild","LR"
-"451",10309,47946,"C","WAKATIPU","Accessibility","Industrial Pl to Gorge Rd car park footpath",
-"452",10310,20000,"D","WAKATIPU","Accessibility","Highview/Andrews Rd ped link","WC"
-"453",10311,30000,"C","CROWN RANGE SPR","Safety","Eastbourne gates winter safety container",
-"454",10312,1500,"C","WANAKA","Accessibility","Wanaka cycle stands",
-"455",10313,5000,"C","WAKATIPU","Safety","Atley Rd pump station guard rail",
-"456",10314,32000,"C","WANAKA","Safety","Camp Hill Rd power pole guard rail",
-"457",10315,32000,"C","WAKATIPU","Safety","Glenda Dr remark after EAR construction",
-"458",10316,5000,"C","WANAKA","Safety","Aubrey Rd speed restriction",
-"459",10317,250000,"D","WANAKA","Accessibility","Matai and Beech footpatths","WC"
-"460",10318,360000,"P","WANAKA","Safety","Rata St traffic calming","R2Z"
-"461",10319,11840,"C","WANAKA","Safety","Beacon Pt-Penrith Park speed advisories",
-"462",10320,50000,"D","WANAKA","Safety","Penrith Park wall safety","LR"
-"463",10321,10000,"P","WANAKA","Safety","Beacon Pt-Penrith Park Rds intersection light","LR"
-"464",10322,0,"C","WAKATIPU","Safety","Anglesea St chicanes",
-"465",10323,10000,"D","WAKATIPU","Safety","Denbigh & Anglesea/Caernarvon intersection treatments","R2Z"
-"466",10326,119444,"C","WAKATIPU","Safety","Gorge Rd retail center guardrail",
-"467",10327,20000,"D","WAKATIPU","Resilience","Coal Pit Rd drainage redirection to Franks Creek","LR"
-"468",10328,20000,"D","WANAKA","Safety","Dungarvon & Ardmore intersection improvements","R2Z"
-"469",10329,25000,"P","WANAKA","Safety","Cardona Valley Rd at medical center footpath connections","WC"
-"470",10330,7e+05,"D","WAKATIPU","Safety","Stalker Rd bus lane and footpath to State Highway","PTI"
-"471",10331,50000,"C","WANAKA","Resilience","Timaru Creek Rd shoulder drop-out fix",
-"472",10332,10000,"D","WANAKA","Accessibility","Daniel Tce to West Meadows Dr footpath connection","WC"
-"473",10333,1e+06,"D","WAKATIPU","Resilience","Butlers Green wall repair and reslience","LR"
-"474",10334,5000,"D","WAKATIPU","Safety","Lighting steps Hay to Shotover","LR"
-"475",10335,15000,"D","WAKATIPU","Safety","Lighting improvements to Gorge Rd","LR"
-"476",10336,3000,"D","WAKATIPU","Safety","Anderson Heights lighting","LR"
-"477",10337,3e+05,"IC","WANAKA","Safety","Aubrey Rd cycle/walkway sealing - Section 2",
-"478",10338,3e+05,"IC","WANAKA","Safety","Aubrey Rd cycle/walkway sealing - Section 3",
-"479",10339,3e+05,"IC","WANAKA","Safety","Aubrey Rd cycle/walkway sealing - Section 4",
-"480",10340,15000,"D","WAKATIPU","Safety","Ferry Hill Dr lighting from Tuckers Beach","LR"
-"481",10341,80000,"D","WAKATIPU","Safety","Skippers Rd intersection seal extension","R2Z"
-"482",10342,23547,"C","WAKATIPU","Safety","Jock Boyd Pl footpath",
-"483",10343,40000,"D","WANAKA","Safety","Gunn Rd parking bay at bike park","WC"
-"484",10344,50000,"C","WANAKA","Safety","19/20 Wanaka general signs and lines",
-"485",10345,50000,"C","WAKATIPU","Safety","Wakatipu general signs and lines",
-"486",10346,1e+05,"P","WAKATIPU","Safety","Hawthorne/Red Oaks signals - half share","R2Z"
-"487",10347,60000,"C","CROWN RANGE SPR","Safety","Cardrona southern speed limit threshold path extension",
-"488",10348,185000,"C","WANAKA","Safety","Hawea Dam control structure/Capell Ave barrier upgrade",
-"489",10349,220000,"C","WANAKA","Accessibility","Footpath upgrade near medical centre 19/20",
-"490",10350,80000,"D","WAKATIPU","Safety","Wiltshire pedestrian safety upgrades","WC"
-"491",10351,21000,"C","WAKATIPU","Safety","Hawthorne Dr at Lucas Pl footpath",
-"492",10352,30000,"D","WANAKA","Safety","Cardrona, southbound speed feedback sign","R2Z"
-"493",10353,2000,"D","WANAKA","Safety","Camp Hill Rd bridge speed advisories","LR"
-"494",10354,33000,"C","WANAKA","Resilience","Aspiring Tce stabilisation Pt 1 design",
-"495",10355,808828,"IC","WAKATIPU","Safety","Arthurs Point cycle and ped improvements",
-"496",10356,16250,"P","WANAKA","Safety","CARDRONA VALLEY ROAD -  Widen shoulder of road@RP 15800","R2Z"
-"497",10357,50625,"P","WANAKA","Safety","CARDRONA VALLEY ROAD -  Intersection improvements@RP 3600","R2Z"
-"498",10358,33750,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Seal improvements@RP 3200","R2Z"
-"499",10359,45000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 5680","R2Z"
-"500",10360,40000,"C","WANAKA","Safety","Cardrona Valley Rd -  Safety barrier installation @RP 3200",
-"501",10361,226250,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 11830",
-"502",10362,45000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 3600","R2Z"
-"503",10363,79000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 3200","R2Z"
-"504",10364,118125,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Relocation of power pole, safety barrier@RP 15250","R2Z"
-"505",10365,79000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 2900","R2Z"
-"506",10366,50625,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 6000","R2Z"
-"507",10367,112000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Extend existing safety barrier both sides @ RP 8530","R2Z"
-"508",10369,106875,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation @ RP 9580","R2Z"
-"509",10371,90000,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 13700",
-"510",10372,124650,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 14234","R2Z"
-"511",10373,70875,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 15662","R2Z"
-"512",10374,73125,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 17900","R2Z"
-"513",10375,90325,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 19110",
-"514",10376,78750,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 20600","R2Z"
-"515",10377,56250,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 3600","R2Z"
-"516",10378,180000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 8850","R2Z"
-"517",10379,393750,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 10700","R2Z"
-"518",10380,193500,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 12400","R2Z"
-"519",10381,292500,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 13000","R2Z"
-"520",10382,0,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install advance school bus warning signage @ RP 8410","LR"
-"521",10383,0,"N","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install curve arrow sign@RP 11600",
-"522",10384,0,"N","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install chevrons@RP 11600",
-"523",10385,0,"N","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install advance signage and chevrons@RP 3600",
-"524",10386,4500,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install advance tourist signage@RP 15800","LR"
-"525",10387,0,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Remove vegetation@RP 15800",
-"526",10388,4500,"P","WANAKA","Safety","CARDRONA VALLEY ROAD -  Remove existing tree@RP 16695",
-"527",10389,0,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Remove existing tree@RP 3845",
-"528",10391,79000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Safety barrier installation@RP 2100","R2Z"
-"529",10392,67000,"P","CROWN RANGE SPR","Safety","Cardrona Vally Rd pedestrian facilities and traffic calming at the Cardrona Hotel","R2Z"
-"530",10393,0,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install advanace tourist signage@RP 3945","LR"
-"531",10394,6750,"P","CROWN RANGE SPR","Safety","CARDRONA VALLEY ROAD -  Replace one non-compliant terminal@RP 130","R2Z"
-"532",10395,13500,"P","CROWN RANGE SPR","Safety","CARDRONA VALLEY ROAD -  Replace two non-compliant terminals@RP 195","R2Z"
-"533",10396,6750,"D","CROWN RANGE SPR","Safety","CARDRONA VALLEY ROAD -  Replace one non-compliant terminal@RP 530","R2Z"
-"534",10397,13500,"P","CROWN RANGE SPR","Safety","CARDRONA VALLEY ROAD -  Replace two non-compliant terminals@RP 789","R2Z"
-"535",10398,13500,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Replace two non-compliant terminals@RP 2358","R2Z"
-"536",10399,6750,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Replace one non-compliant terminal@RP 13929","R2Z"
-"537",10400,21500,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Remove existing trees@RP 15675","LR"
-"538",10401,6500,"C","CROWN RANGE SPR","Safety","CARDRONA VALLEY ROAD -  Remove existing tree@RP 45","R2Z"
-"539",10403,6500,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Remove existing tree@RP 6380","LR"
-"540",10405,40000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Widen shoulder and add slip lane@RP 8410","LR"
-"541",10406,276000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Alignment improvement intersection ingress from RH turn@RP 21690","R2Z"
-"542",10407,315000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install roundabout/dumbell @RP 23770","R2Z"
-"543",10408,360000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install roundabout/dumbell @RP 24430","R2Z"
-"544",10409,60750,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Retaining wall construction@RP 9830","LR"
-"545",10410,1125,"N","WANAKA","Safety","CARDRONA VALLEY ROAD -  Install direction signs@RP 8410",
-"546",10411,1125,"C","WANAKA","Safety","CARDRONA VALLEY ROAD -  Relocation of sign@RP 15662",
-"547",10413,16500,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Relocation of fence@RP 14600","R2Z"
-"548",10414,0,"D","CROWN RANGE SPR","Safety","CARDRONA VALLEY ROAD -  Monitor trees in swale@RP 1200","LR"
-"549",10415,50625,"D","CROWN RANGE SPR","Safety","Cardrona Valley Rd -  Straighten alignment @ RP809","LR"
-"550",10416,45000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Catchment analysis, channel clearing and drainage works@RP 3200","LR"
-"551",10417,105000,"D","WANAKA","Safety","CARDRONA VALLEY ROAD -  Drainage improvements, catchment analysis@RP 3600","LR"
-"552",10418,10000,"D","WANAKA","Accessibility","Frye Cres footpath connection","WC"
-"553",10419,10000,"P","WANAKA","Safety","Little St lighting","LR"
-"554",10420,1e+05,"D","CROWN RANGE SPR","Safety","Cardrona Valley Rd, Cardrona south lighting installation","LR"
-"555",10421,20000,"D","WAKATIPU","Safety","Broadview Rise lighting upgrade","LR"
-"556",10422,60000,"D","WAKATIPU","Safety","Peninsula Rd additional lighting due to deer","LR"
-"557",10424,0,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350","LR"
-"558",10426,33750,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350","R2Z"
-"559",10428,0,"C","WAKATIPU","Safety","Crown Range Rd - Chevrons Zig Zag Corners","LR"
-"560",10429,18984,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700","R2Z"
-"561",10431,112500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350","R2Z"
-"562",10432,22500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800","R2Z"
-"563",10433,22500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 8760","R2Z"
-"564",10435,25000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11530","LR"
-"565",10436,20000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12200","LR"
-"566",10441,16875,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 15240","R2Z"
-"567",10443,16875,"C","CROWN RANGE SPR","Safety","Crown Range Rd -  barrier extension @RP 17880",
-"568",10444,9e+05,"P","WAKATIPU","Safety","Crown Range Road -  Zig zag lookout upgrade",
-"569",10445,160000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 8730",
-"570",10446,220000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350","R2Z"
-"571",10447,255000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12021","LR"
-"572",10448,240000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12110","LR"
-"573",10449,50000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 6880","LR"
-"574",10450,33750,"P","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800","R2Z"
-"575",10451,45000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 8500",
-"576",10452,128125,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 10200",
-"577",10453,39375,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 13000","R2Z"
-"578",10454,28125,"C","CROWN RANGE SPR","Safety","Crown Range Rd - barrier @RP 14020",
-"579",10455,36000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 21300",
-"580",10456,10000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12250","LR"
-"581",10457,6000,"P","CROWN RANGE SPR","Safety","Crown Range Road -  Bridges and Structures @RP 15774","R2Z"
-"582",10458,,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800",
-"583",10459,0,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Signage & Delineation @RP 7900","LR"
-"584",10460,0,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 8760","LR"
-"585",10461,0,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Signage & Delineation @RP 19350","LR"
-"586",10462,67500,"C","WAKATIPU","Safety","Crown Range Road -  Extend guardrails on zig zag corners",
-"587",10463,56250,"C","CROWN RANGE SPR","Safety","Crown Range Rd -  top of zig zags barrier @RP 2840",
-"588",10464,56250,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700","R2Z"
-"589",10465,60000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11850","LR"
-"590",10466,90000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 19350",
-"591",10467,58350,"P","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800","R2Z"
-"592",10468,30000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12250","LR"
-"593",10469,42000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12250","LR"
-"594",10470,15000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12439","LR"
-"595",10471,15000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12457","LR"
-"596",10472,18984,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700","LR"
-"597",10473,66000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 7650","R2Z"
-"598",10474,135000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 9650","LR"
-"599",10475,16875,"D","WAKATIPU","Safety","Crown Range Road - repair guardrails on zig zags","LR"
-"600",10476,11250,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 8040","R2Z"
-"601",10477,10000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12200",
-"602",10478,11250,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 15140","LR"
-"603",10479,675000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 8500","LR"
-"604",10480,2e+05,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 9000","LR"
-"605",10481,240000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12200","LR"
-"606",10482,4500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Bridges and Structures @RP 14714","R2Z"
-"607",10483,4500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Bridges and Structures @RP 15953","R2Z"
-"608",10484,28125,"D","WAKATIPU","Safety","Crown Range Rd - seal inside zig zag corners","R2Z"
-"609",10485,29000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7600",
-"610",10486,35000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 8400",
-"611",10487,30000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 10880","LR"
-"612",10488,45000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11100","LR"
-"613",10490,15000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 18250","LR"
-"614",10491,33750,"P","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 19200","R2Z"
-"615",10492,33750,"C","CROWN RANGE SPR","Safety","Crown Range Rd -  bridge barrier terminal upgrades @RP 22510",
-"616",10493,,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700","R2Z"
-"617",10494,225000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Signage & Delineation @RP 7900","R2Z"
-"618",10495,11250,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 8760","R2Z"
-"619",10496,22500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 9250","LR"
-"620",10497,14500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 11250","LR"
-"621",10498,17000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Safety (Barrier) @RP 11900","LR"
-"622",10499,16875,"C","CROWN RANGE SPR","Safety","Crown Range Rd -  Chain Bay 2 barrier @RP 13000",
-"623",10500,18984,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Chain Bays & Pull Over Areas @RP 14200","LR"
-"624",10501,56250,"C","CROWN RANGE SPR","Safety","Crown Range Rd - culvert barrier @RP 3200",
-"625",10502,140000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7790",
-"626",10503,90000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 8070",
-"627",10504,120000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 8830","LR"
-"628",10505,135000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 9065","LR"
-"629",10506,1e+05,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 9450","LR"
-"630",10507,120000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 10052","LR"
-"631",10508,75000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11250","LR"
-"632",10509,80000,"C","CROWN RANGE SPR","Safety","Crown Range Rd -  barrier for culverts @RP 14240",
-"633",10510,70000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7900","LR"
-"634",10511,40000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7200","LR"
-"635",10512,360000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 6900","LR"
-"636",10513,450000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7450","LR"
-"637",10514,35000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12457","LR"
-"638",10515,21000,"P","CROWN RANGE SPR","Safety","Crown Range Road -  Bridges and Structures @RP 15125","R2Z"
-"639",10516,150000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7000","LR"
-"640",10517,112500,"C","CROWN RANGE SPR","Safety","Crown Range Rd - barrier upgrade @RP 8100",
-"641",10518,115000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11700","LR"
-"642",10519,120000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11700","LR"
-"643",10520,73000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11800","LR"
-"644",10521,60000,"D","WAKATIPU","Safety","Crown Range Road -  Pavement rehab @RP 1200","LR"
-"645",10522,27500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 11250","LR"
-"646",10523,5000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 17340","LR"
-"647",10524,1214000,"D","WAKATIPU","Safety","Crown Range Rd -  slope stabilisation on zig zags","LR"
-"648",10526,7800000,"D","WAKATIPU","Safety","Crown Range Road -  Geotech @RP 3000",
-"649",10527,47500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 14794","LR"
-"650",10528,25000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12678","LR"
-"651",10529,25000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12790","LR"
-"652",10530,13000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 13290","LR"
-"653",10531,25000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 18545","LR"
-"654",10532,120000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12678","LR"
-"655",10533,85000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12900","LR"
-"656",10534,87500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 15125","LR"
-"657",10535,66000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 17689","LR"
-"658",10536,35000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 12532","LR"
-"659",10537,37000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 15700","LR"
-"660",10538,3000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Bridges and Structures @RP 19249","R2Z"
-"661",10539,55000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 13700","LR"
-"662",10540,27000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 15125","LR"
-"663",10541,22500,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 21336","LR"
-"664",10542,3000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Bridges and Structures @RP 23190","R2Z"
-"665",10543,70000,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 15650","LR"
-"666",10544,1.8e+07,"D","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 15170","LR"
-"667",10545,5060,"C","WAKATIPU","Safety","Crown Range Rd -  slip scaling RP 600",
-"668",10546,4700,"C","CROWN RANGE SPR","Safety","Crown Range Rd -  scaling @RP 8410",
-"669",10548,29000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7600",
-"670",10549,4000,"C","CROWN RANGE SPR","Safety","Crown Range Road -  Geotech @RP 7790",
-"671",10550,2e+05,"D","WANAKA","Safety","Capell Ave footpath from rec ground to Lakeview","WC"
-"672",10551,10000,"D","WANAKA","Safety","McLennen Rd turn-around at Maude View","LR"
-"673",10552,4000,"C","WANAKA","Safety","Pedestrian drop crossings on Meadowstone",
-"674",10553,11479,"C","WANAKA","Safety","Pedestrian drop crossings on Mt Aspiring Rd at Meadowstone",
-"675",10554,10000,"D","WAKATIPU","Safety","Kent St speed limit threshold","R2Z"
-"676",10555,20000,"D","WAKATIPU","Amenity","Spence Rd turn around upgrade","LR"
-"677",10556,50000,"D","WANAKA","Safety","Wanaka Centre car park traffic calming","R2Z"
-"678",10557,35000,"C","WAKATIPU","Safety","Penrich Court Retaining Wall",
-"679",10558,14491,"C","WANAKA","Safety","Cardrona Valley Rd Safety Review",
-"680",10559,5e+05,"C","WANAKA","Safety","SH8A underpass at Sir Tim Wallis Dr",
-"681",10560,5347,"IC","WAKATIPU","Safety","Skippers Rd signs and edge markers",
-"682",10561,9e+05,"D","WAKATIPU","Safety","Footpath duplication and upgrade","WC"
-"683",10562,5e+05,"C","GLENORCHY SPR","Safety","Bennetts Bluff alternative passing bay",
-"684",10563,150000,"D","WANAKA","Resilience","Raspberry Creek ford upgrade","LR"
-"685",10564,1e+05,"P","WANAKA","Safety","Golf Course Rd/Ballantyne Rd intersection upgrade",
-"686",10566,4800,"P","WAKATIPU","Safety","Jack Reid Park path flattening",
-"687",10567,80000,"D","WAKATIPU","Safety","Gorge Rd footpath - McMillan to Oxenbridge","WC"
-"688",10568,10000,"D","WANAKA","Safety","Brownston Creek car park ped link to Bullock Creek Ln","WC"
-"689",10569,1000,"D","WANAKA","Accessibility","Spencer Mall bike racks","WC"
-"690",10570,1900000,"D","WANAKA","Safety","Intersection improvement of Riverbank Road and Ballantyne Road","R2Z"
-"691",10571,1e+05,"C","WANAKA","Safety","Mount Ida Pl soakpit",
-"692",10572,3e+05,"D","WANAKA","Safety","Ballantyne Rd widening around Fredrick St","R2Z"
-"693",10573,250000,"P","WANAKA","Accessibility","Aubrey Rd path upgrade - Rata to BP Rd","WC"
-"694",10574,2e+05,"D","WANAKA","Accessibility","SH8A school to pool shared path","WC"
-"695",10575,60000,"D","WANAKA","Accessibility","SH8A path upgrade - Anderson to Sir TW","WC"
-"696",10576,20000,"D","WANAKA","Accessibility","Beacon Pt  Rd path upgrade - Waimana to Penrith Park","WC"
-"697",10577,50000,"C","WAKATIPU","Resilience","Butlers Green alternative stairs",
-"698",10578,24000,"C","WAKATIPU","Safety","Stalker Rd at Max's Way stormwater",
-"699",10579,1e+05,"IC","WANAKA","Safety","20/21 Wanaka general signs and lines",
-"700",10580,50000,"P","WANAKA","Safety","21/22 Wanaka general signs and lines","LR"
-"701",10581,50000,"P","WANAKA","Safety","Wanaka general signs and lines","LR"
-"702",10582,50000,"P","WANAKA","Safety","Wanaka general signs and lines","LR"
-"703",10583,75000,"IC","WAKATIPU","Safety","Wakatipu general signs and lines",
-"704",10584,25000,"P","WAKATIPU","Safety","Wakatipu general signs and lines","LR"
-"705",10585,25000,"P","WAKATIPU","Safety","Wakatipu general signs and lines","LR"
-"706",10586,50000,"P","WAKATIPU","Safety","Wakatipu general signs and lines","LR"
-"707",10587,1e+05,"D","WANAKA","Safety","Aubrey Rd at Albert Town lighting upgrade","LR"
-"708",10588,5000,"P","WANAKA","Safety","Timsfield Dr cycle track crossing point upgrade Part 1","WC"
-"709",10589,590000,"IC","WANAKA","Accessibility","Lakeside Rd new footpath and drainage upgrade",
-"710",10590,10000,"D","WAKATIPU","Safety","Fernhill to Wynyard path lighting","LR"
-"711",10591,0,"C","WANAKA","Safety","Matukituki River bridge signage improvements","LR"
-"712",10592,6000,"P","WANAKA","Safety","Anderson Rd at Aubrey Rd intersection bollards",
-"713",10593,2000,"D","WANAKA","Amenity","Alison Ave drainage at 80 and 84","LR"
-"714",10594,50000,"D","WANAKA","Resilience","Camp Hill Rd culvert at RP4077 lowering","LR"
-"715",10595,1000,"D","WANAKA","Safety","Matai Rd footpath drop crossings at Manuka Cres.","WC"
-"716",10596,10000,"D","WANAKA","Resilience","Matai Rd drainage outside #6","LR"
-"717",10597,5000,"D","WAKATIPU","Safety","Benmore Pl footpath by reserve","WC"
-"718",10598,7000,"D","WAKATIPU","Safety","Highview Tce speed hump upgrade at Gum Ln","R2Z"
-"719",10599,500,"D","WAKATIPU","Accessibility","Ramshaw Ln toilet wheel stops before path","WC"
-"720",10600,120000,"C","WAKATIPU","Safety","Morven Ferry Rd at Arrow Junction intersection upgrade",
-"721",10601,80224,"IC","WANAKA","Safety","Nook Rd & Hawea Back Rd intersection upgrade Pt. 2",
-"722",10602,21866,"IC","CROWN RANGE SPR","Safety","Crown Range summit car park entrance upgrade Pt 2",
-"723",10603,68273,"IC","WAKATIPU","Safety","Fernhill playgrnd ped X point Pt 2",
-"724",10604,78375,"IC","WAKATIPU","Safety","Boyes at McBride shorten ped. crossing point Pt 2",
-"725",10605,16484,"P","WAKATIPU","VfM","Berkshire Street Footpath Remediation Pt 2","WC"
-"726",10606,1e+05,"D","WANAKA","Safety","Aubrey Rd - Anderson to Northburn lighting","LR"
-"727",10607,391808,"C","WANAKA","Resilience","Aspiring Tce stabilisation Pt 2 construction",
-"728",10608,20000,"D","WAKATIPU","Safety","Southern Access Rd pedestrian crossing facilities","WC"
-"729",10609,50000,"D","WANAKA","Safety","Makarora residential area footpaths","WC"
-"730",10610,80000,"D","WANAKA","Safety","Domain from Capell to Noema short term path upgrade","WC"
-"731",10611,10628,"C","WAKATIPU","Safety","Man St at Duke St pedestrian median island: Part 2",
-"732",10612,7e+05,"D","WANAKA","Safety","Anderson rd at Aubrey Rd intersection roundabout","R2Z"
-"733",10613,28000,"D","WANAKA","Safety","Capell Ave barrier between Scotts Beach and Skinner","R2Z"
-"734",10614,1000,"D","WANAKA","Safety","131 Newcastle Rd truck crossing warning for cyclists","WC"
-"735",10615,25000,"D","WAKATIPU","Safety","Yewlett/Stuart footpath","WC"
-"736",10616,5e+05,"P","WANAKA","Safety","Capell Ave at Domain Rd intersection upgrade Part 2 Construction","R2Z"
-"737",10617,50000,"D","WANAKA","Safety","Dungarvon into Tenby intersection improvements","R2Z"
-"738",10618,5000,"D","WANAKA","Safety","Heron Green cut-through barrier","LR"
-"739",10619,2000,"D","WANAKA","Safety","Alison Ave footpath drainage outside #63","WC"
-"740",10620,75000,"D","WANAKA","Safety","MacPherson St traffic calming","R2Z"
-"741",10621,547000,"IC","WANAKA","Safety","Ballantyne Road rural upgrade","R2Z"
-"742",10622,80000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"743",10623,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"744",10624,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"745",10625,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"746",10626,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"747",10627,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"748",10628,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"749",10629,60000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"750",10630,60000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"751",10631,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"752",10632,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"753",10633,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"754",10634,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"755",10635,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"756",10636,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"757",10637,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"758",10638,40000,"D","CROWN RANGE SPR","Safety","Crown range SPR rehab associated improvements","R2Z"
-"759",10639,116000,"D","WAKATIPU","Safety","Malaghans Rd 21/22 rehab associated improvements","LR"
-"760",10640,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"761",10641,40000,"D","GLENORCHY SPR","Safety","Glenorchy SPR rehab","R2Z"
-"762",10642,20000,"D","WAKATIPU","Safety","Arthurs Pt Rd formal pedestrian crossing","WC"
-"763",10643,15000,"D","WAKATIPU","Safety","McDonnell at Centennial flag lighting","LR"
-"764",10644,10000,"D","WANAKA","Safety","Ardmore St mobility park footpath highlight","WC"
-"765",10645,25000,"D","WANAKA","Safety","Glendhu Bluff guardrail extension","R2Z"
-"766",10646,10000,"D","WAKATIPU","Safety","Wynyard Cres ped crossing point improvements","WC"
-"767",10647,15000,"D","WANAKA","Safety","Gordon Rd ped and cycle crossing to shared path","WC"
-"768",10648,10000,"D","WANAKA","Safety","Timsfield Dr cycle track crossing point upgrade Part 2","WC"
-"769",10649,20000,"D","WANAKA","Safety","Cardona Valley Rd at medical center footpath connections","WC"
-"770",10650,12000,"D","WANAKA","Accessibility","SH84 at 3 Parks underpass removal of stairs","WC"
-"771",10651,4e+05,"D","WAKATIPU","Safety","Gorge & Hallenstein footpath realignment and crossings","WC"
-"772",10652,20000,"D","WANAKA","VfM","Aubrey Rd opposite 484 storm water improvements","LR"
-"773",10653,30000,"D","WANAKA","Safety","McDougall St pedestrian crossing points.","WC"
-"774",10654,12000,"D","WANAKA","Safety","Kent & Gloucester railway crossings safety review","LR"
-"775",10655,1e+05,"D","WAKATIPU","Safety","Speed management or down hill vehicles.","R2Z"
-"776",10656,2000,"D","WAKATIPU","Accessibility","Athol Street @ Village green - Bike Rack","WC"
-"777",10657,4e+05,"P","WANAKA","Safety","Golf Course Rd/Ballantyne Rd intersection upgrade Part 2","R2Z"
-"778",10658,1,"N","GLENORCHY SPR","Safety","test",
-"779",10659,5000,"D","WANAKA","Safety","Bremner Bay path continuation across parking bay","WC"
-"780",10660,750000,"D","WAKATIPU","Safety","Lower Shotover Rd widening Part 2. Construction","R2Z"
-"781",10661,50000,"D","WANAKA","Safety","Ardmore St (upper) golf course to Bottle-O pedestrian link","WC"
-"782",10662,20000,"D","WAKATIPU","Safety","Buckingham St and Ramshaw Ln pedestrian crossing points","WC"
-"783",10663,10000,"D","WANAKA","Safety","Mount Gold Pl to Penrith Park Dr footpath","WC"
-"784",10664,807100,"D","WANAKA","Safety","Mount Aspiring R2Z BOOST","R2Z"
-"785",10665,3900,"D","WAKATIPU","Safety","Malaghans Rd - Littles to North Ridge speed management","R2Z"
-"786",10666,18800,"D","WAKATIPU","Safety","Malaghans - North Ridge to Berkshire speed management","R2Z"
-"787",10667,46200,"D","CROWN RANGE SPR","Safety","Crown Range Rd speed management","R2Z"
-"788",10668,28750,"P","WAKATIPU","Safety","Wakatipu RSP reallocation by David Scarlet","R2Z"
-"789",10669,28750,"P","WAKATIPU","Safety","Wakatipu RSP reallocation by David Scarlet","R2Z"
-"790",10670,28750,"P","WAKATIPU","Safety","Wakatipu RSP reallocation by David Scarlet","R2Z"
-"791",10671,28750,"P","WANAKA","Safety","Wanaka RSP reallocation by David Scarlet","R2Z"
-"792",10672,28750,"P","WANAKA","Safety","Wanaka RSP reallocation by David Scarlet","R2Z"
-"793",10673,28750,"P","WANAKA","Safety","Wanaka RSP reallocation by David Scarlet","R2Z"
-"794",10674,0,"D","WANAKA","Safety","Gunn Rd traffic calming","LR"
-"795",10675,50000,"D","WAKATIPU","Safety","Atley Rd exit school bus stop.","LR"
-"796",10676,0,"D","WANAKA","Safety","Tuohys Gully Rd sealing request","LR"
-"797",10677,0,"D","WAKATIPU","Safety","Templeton Way footpath drop kerb.",
-"798",10678,0,"D","WAKATIPU","Safety","Berkshire st electronic speed information sign","LR"
-"799",10679,30000,"D","CROWN RANGE SPR","Safety","Cardrona Valley Way/Cardrona - Footpath connection with additional vegetation/landscaping","R2Z"
-"800",10680,15000,"D","WAKATIPU","TTR","Grant Road and Central Street, Frankton (Five Mile) - Signals","LR"
-"801",10681,350000,"D","WANAKA","Safety","Hedditch Street, Wanaka north - new footpath / footpath widening","WC"
-"802",10682,2e+05,"D","WANAKA","Safety","Plantation Road, Wanaka north - new footpath / footpath widening","WC"
-"803",10683,1,"D","WANAKA","Safety","Near Koru Way, Wanaka north - New footpath and footpath widening","WC"
-"804",10684,350000,"D","WANAKA","Safety","Kelly's Flat at Aubrey Road, Wanaka north - New footpath and footpath widening","WC"
-"805",10685,0,"D","WAKATIPU","Safety","QLDC Bollard Hazard Marker","PTI"
-"806",10686,0,"D","WAKATIPU","Safety","496 Peninsula Rd - Drainage","LR"
+system_id,est_cost,status,ward,onrcoutcome,projectname,activity_class
+9699,475000,C,WAKATIPU,Safety,Andrews Road Access,
+9700,20000,D,WAKATIPU,Safety,Glenorchy Rd at Sunshine Bay pedestrian facility,WC
+9701,19726,C,WAKATIPU,Safety,Boyes at McBride shorten ped. crossing point Part 1,
+9702,2000,C,WAKATIPU,Safety,Arrowtown Bowling Club,
+9703,17500,D,WAKATIPU,TTR,ArwTwn-LH Rd destination sign,LR
+9704,17500,D,WAKATIPU,TTR,Malaghans Rd destination sign,LR
+9705,4000,C,WANAKA,Safety,SCHOOL ZONE 40 warning signs,
+9706,5000,C,WANAKA,Safety,Cardona Valley Road Markings,
+9707,7500,C,WANAKA,Safety,McDougall Street Crossing,
+9708,2.00E+05,C,WANAKA,Resilience,Kane Road seal widening,
+9709,7000,C,WANAKA,Safety,Aubrey Rd New Pedestrian Cross,
+9710,1000,C,WANAKA,TTR,Riverbank Rd Signage,
+9711,10000,C,WANAKA,Safety,Rata St Pedestrian Crossing,
+9715,1.00E+05,C,WAKATIPU,Safety,Speargrass Flat Rd intersection upgrade,
+9716,95000,D,WAKATIPU,Safety,Gorge Road in Arthurs Point footpath,WC
+9717,100001,C,WAKATIPU,Safety,Coronet Peak Rd Safety Upgrade,
+9718,30000,C,WANAKA,Safety,Lagoon Avenue install footpath,
+9719,11000,C,WAKATIPU,Safety,Manse Road Traffic Calming,
+9720,5500,C,WAKATIPU,Safety,Hunter Rd school bus stop,
+9721,9000,C,WAKATIPU,Safety,Hallenstein St Guardrail,
+9722,3600,C,WAKATIPU,Safety,Robertson St (west) lighting,
+9724,20000,D,WAKATIPU,Safety,Arthurs Point Rd Lights,LR
+9725,7500,C,WANAKA,Safety,Lake View Terrace Footpath,
+9726,30000,C,WANAKA,Safety,Lagoon Avenue Footpath,
+9727,1.00E+05,D,WAKATIPU,TTR,Hylton Place Widening,LR
+9728,9000,C,WANAKA,Safety,Gladstone Rd School Signage,
+9729,5000,C,WANAKA,Safety,Lismore Street Lighting,
+9730,7500,C,WANAKA,TTR,Reece Crescent Intersection,
+9731,20000,C,WANAKA,Safety,Gunn Road Crossing Point,
+9732,12000,C,WANAKA,Safety,Kirimoko Crescent Footpath,
+9733,20000,C,WANAKA,Safety,Riverbank Road  Intersection,
+9734,30000,D,WAKATIPU,Safety,Wynyard Crescent Lighting,LR
+9736,115000,C,CROWN RANGE SPR,Safety,Crown Range Weather Station,
+9737,1500000,IC,GLENORCHY SPR,Safety,Bennetts Bluff alternative viewing area,R2Z
+9738,16500,D,WANAKA,Safety,Wilkin Rd new footpath,WC
+9739,75000,C,WANAKA,Safety,Ballantyne Rd New AC Footpath,
+9740,10000,D,WAKATIPU,Safety,McBride Street Lighting,LR
+9741,270000,C,WANAKA,Safety,Beacon Point Rd Widening,
+9742,20000,D,WANAKA,Safety,Studholme Road streetlighting,LR
+9745,30000,P,WANAKA,Safety,Old Wanaka Lighting Upgrade,LR
+9746,2500,C,WAKATIPU,Accessibility,Cornwall St Lamp Post removed,
+9748,20000,IC,WAKATIPU,Safety,Lake Avenue speed management,
+9749,9750,C,WANAKA,Safety,Tourist Driver Project,
+9750,18000,C,CROWN RANGE SPR,Safety,Tourist Driver project,
+9751,18000,C,GLENORCHY SPR,Safety,Tourist Driver Project,
+9753,60000,N,WAKATIPU,Safety,Intersection flag lighting (ar,
+9754,532400,N,WAKATIPU,TTR,Transport strategy Queenstown,
+9755,2.00E+05,N,WANAKA,TTR,Transport strategy Wanaka,
+9756,450000,N,WAKATIPU,TTR,Transport strategy Frankton,
+9757,0,C,WAKATIPU,Safety,Montessori Arrowtown Safety,
+9758,1.00E+05,C,WANAKA,Safety,Mt Barker Notta seal east of Smith Rd,
+9759,95000,C,WANAKA,Safety,Mt Barker Rd at Boundary Rd Notta seal,
+9760,60000,C,WANAKA,Safety,Aubrey Rd Cycle Trail,
+9761,24000,C,WANAKA,Accessibility,Kingston St footpath surface,
+9762,12000,C,WANAKA,Safety,Aubrey Road Bus Bay,
+9763,5800,C,WANAKA,Safety,Riverbank Road Calming,
+9764,13000,C,WAKATIPU,Safety,McMillan Road playground footpath,
+9765,4000,C,WANAKA,Safety,Brownston St pedestrian fence,
+9766,5000,D,WAKATIPU,Safety,Allan Crescent pedestrian facility,WC
+9767,186000,C,WAKATIPU,Accessibility,Glenda Drive crossing,
+9768,7500,C,WAKATIPU,Safety,Kinloch Sight Rail,
+9770,4000,C,WAKATIPU,Safety,Project Name,
+9771,15000,P,WANAKA,Safety,Monley Lane footpath,WC
+9773,20000,C,WAKATIPU,Safety,Lake Ave McBride st island,
+9775,48000,C,WANAKA,Accessibility,Aubrey Rd footpath connection,
+9776,10000,C,WANAKA,Safety,Anderson Rd cycle facilities,
+9777,527000,IC,WANAKA,Accessibility,Path-Golf Course Rd to 3 Parks,
+9778,18641,C,WAKATIPU,Safety,Man St at Duke St pedestrian median island: Part 1,
+9780,21000,C,WAKATIPU,Safety,Hawthorne Dr at Lucas Pl footpath,
+9781,3000,D,WAKATIPU,Safety,Willow Pl lighting,LR
+9782,2000,C,WAKATIPU,Safety,RemarksPS 40 advise schl zone,
+9783,3.00E+05,P,WANAKA,Safety,Aubrey Rd shared path west of Anderson - north side,WC
+9784,2.00E+05,D,WANAKA,Safety,Alison Ave/Gunn Rd roundabout,R2Z
+9785,1000,C,WANAKA,Safety,Alison Ave/Gunn Rd heavy vehicle restriction,
+9786,50000,D,WANAKA,Safety,"Pedestrians, especially children (school and sports) crossing of Aubrey Rd to/from Rata St and Holy Family",WC
+9787,60000,C,WANAKA,Safety,Aubrey Rd cycle lanes,
+9788,1500,D,WANAKA,Amenity,Bill poster for sales/events,LR
+9789,3000,C,WAKATIPU,Safety,40 advisory school zone,
+9790,15000,D,WAKATIPU,Safety,Jones Ave at Myles Way pedestrian facility,WC
+9791,24236,C,WAKATIPU,Safety,Von Rd upgrade for cyclists,
+9793,2000,C,WAKATIPU,Safety,Church St at parking exit pedestrian mirror,
+9794,5000,C,WAKATIPU,Safety,Searle Lane CCTV and S/Light,
+9795,5000,C,WAKATIPU,Safety,Beach Street Pedestrianisation,
+9796,19000,C,WANAKA,Safety,Hedditch St to Little St footpath,
+9797,120000,C,WANAKA,Safety,Lismore to Little footpath,
+9798,200,C,WANAKA,TTR,Sign to Tenby S Presbyt Church,
+9799,60000,C,WANAKA,Safety,Tidy up of Hawea shops area,
+9800,700,C,WANAKA,Safety,Bodkin requires S/light,
+9801,750,D,WAKATIPU,Safety,Light up Ramshaw Steps,LR
+9803,0,C,WAKATIPU,Safety,Judge and Jury Ln centreline,
+9804,1000,C,WAKATIPU,Safety,Jones Ave X-intersection,
+9805,300,C,WAKATIPU,TTR,Watties Track No Exit sign,
+9806,150,C,WAKATIPU,Resilience,Grove Ln road sign,
+9807,2500,D,WAKATIPU,Safety,110 Hallenstein new street light,LR
+9808,2500,D,WAKATIPU,Safety,Cambridge St at Cornwall St new street light,LR
+9809,20000,C,WANAKA,Safety,Brownston St raising drainage grates,
+9810,9000,D,WAKATIPU,Safety,Hawthorn Dr at New World ped X-ing upgrade,WC
+9811,4500,C,WANAKA,Safety,Ardmore BP forecourt/footpath,
+9812,52000,C,WAKATIPU,Accessibility,Robertson St footpath connection,
+9813,70000,C,WANAKA,Accessibility,Bernard Rd footpath,
+9814,15164,C,WAKATIPU,Safety,Ballarat St carpark to Stanley St stairs upgrade,
+9815,85000,C,WAKATIPU,Safety,Glenorchy Rd path to pump station,
+9816,51836,C,WAKATIPU,Safety,1 Mile carpark pedestrian facility,
+9817,30000,D,WAKATIPU,Accessibility,Footpath across Nerin Sqr,WC
+9818,10000,C,WAKATIPU,Safety,Stalker Rd kea crossing,
+9819,8438,C,WAKATIPU,Safety,Fernhill playgrnd ped X point Pt 1,
+9820,25778,IC,WAKATIPU,Safety,Fernhill Rd at Avalon Cres ped crossing point,
+9821,42000,D,WAKATIPU,Safety,Fernhill ped X near Watts,WC
+9822,70000,C,WAKATIPU,Safety,Quail Rise footpath to Tucker Beach Rd,
+9823,150000,D,WAKATIPU,Safety,Tucker Beach Rd footpath to bus stop,WC
+9824,0,C,WAKATIPU,Accessibility,Ballarat St at Hallenstein St footpath widening,
+9825,250000,D,WANAKA,Accessibility,Camphill path from Lachlan Ave to the river,WC
+9826,3600,C,WAKATIPU,TTR,Frankton Sd access signs,
+9828,67000,C,WANAKA,Safety,Mt Roy path link,
+9829,3.00E+05,C,WANAKA,Safety,Mt Roy entrance upgrade,
+9830,3.00E+05,N,WANAKA,Accessibility,Wanaka biking facilities,
+9831,3.00E+05,N,WANAKA,Accessibility,Wanaka biking facilities,
+9832,3.00E+05,N,WANAKA,Accessibility,Wanaka biking facilities,
+9833,50000,N,WANAKA,Accessibility,Wanaka on-street wayfinding signage,
+9834,50000,N,WANAKA,VfM,Wanaka transport communications,
+9838,50000,C,WAKATIPU,Safety,Frankton 48 hour,
+9839,50000,N,WANAKA,Safety,Cardrona Valley Rd safety improvements,
+9840,1100000,P,WANAKA,Safety,Anderson Rd corridor upgrades,LR
+9841,3.00E+05,N,WANAKA,Safety,SH6/84/Riverbank intersection improvement,
+9842,250000,N,WANAKA,Safety,Urban Ballantyne Rd upgrade,
+9843,3.00E+05,N,WANAKA,Safety,Urban Ballantyne Rd upgrade,
+9844,7.00E+05,N,WANAKA,Safety,Urban Ballantyne Rd upgrade,
+9846,8.00E+05,N,WANAKA,Safety,SH6/84/Riverbank intersection improvement,
+9847,5.00E+05,N,WANAKA,Safety,Cardrona Valley Rd safety improvements,
+9848,787000,N,WANAKA,Safety,LCLR Wanaka,
+9849,228800,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9850,787000,N,WAKATIPU,Safety,LCLR Wakatipu,
+9851,149100,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9852,813000,N,WANAKA,Safety,LCLR Wanaka,
+9853,864000,N,WANAKA,Safety,LCLR Wanaka,
+9854,49200,N,WANAKA,Safety,LCLR Wanaka,
+9855,118450,N,WANAKA,Safety,LCLR Wanaka,
+9856,337700,N,WANAKA,Safety,LCLR Wanaka,
+9857,506950,N,WANAKA,Safety,LCLR Wanaka,
+9858,526200,N,WANAKA,Safety,LCLR Wanaka,
+9859,395450,N,WANAKA,Safety,LCLR Wanaka,
+9860,564700,N,WANAKA,Safety,LCLR Wanaka,
+9861,813000,N,WAKATIPU,Safety,LCLR Wakatipu,
+9862,864000,N,WAKATIPU,Safety,LCLR Wakatipu,
+9863,449200,N,WAKATIPU,Safety,LCLR Wakatipu,
+9864,486450,N,WAKATIPU,Safety,LCLR Wakatipu,
+9865,487700,N,WAKATIPU,Safety,LCLR Wakatipu,
+9866,506950,N,WAKATIPU,Safety,LCLR Wakatipu,
+9867,526200,N,WAKATIPU,Safety,LCLR Wakatipu,
+9868,545450,N,WAKATIPU,Safety,LCLR Wakatipu,
+9869,564700,N,WAKATIPU,Safety,LCLR Wakatipu,
+9870,137500,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9871,129900,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9872,59800,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9873,55000,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9874,50250,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9875,45450,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9876,40600,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9877,35850,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9878,31050,N,GLENORCHY SPR,Safety,LCLR Glenorchy SPR,
+9879,189200,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9880,200500,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9881,88950,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9882,81900,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9883,74800,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9884,67750,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9885,60650,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9886,53600,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9887,46500,N,CROWN RANGE SPR,Safety,LCLR Crown Range SPR,
+9888,10000,C,WANAKA,Safety,Hidden Hills Drv intersection street light,
+9889,30000,C,WAKATIPU,Safety,Hope Ave parking at playground,
+9890,1000,C,WAKATIPU,Safety,Adamson pedestrian protection,
+9891,50000,C,WANAKA,Safety,Moraine footpath connection,
+9892,1500,C,WAKATIPU,Amenity,Wheelstops and grass protection,
+9893,10000,D,WAKATIPU,Safety,Caernarvon St pedestrian facility for kindy,WC
+9894,500,C,WAKATIPU,Safety,Widen Manse Rd speed cushions,
+9895,500,C,WAKATIPU,Accessibility,Formalise Adamson bus stop,
+9896,25000,C,WAKATIPU,Safety,Villers St guardrail,
+9898,65000,C,WAKATIPU,Safety,Malaghans Rd lavender farm guardrail extension,
+9899,121594,C,WANAKA,Safety,Nook Rd & Hawea Back Rd intersection upgrade Pt.1,
+9900,1,C,WANAKA,Safety,Hawea Back Rd at Gray Rd bus stop,
+9901,300,C,WANAKA,Safety,Gray Rd school bus route sign,
+9902,300,C,WANAKA,Safety,Nook Rd T-intersection sign on Hawea Back Rd,
+9903,300,C,WANAKA,Safety,Hawea Back Rd school bus route sign,
+9904,20000,C,WANAKA,Amenity,Cappell Ave at tennis courts road edge upgrade,
+9905,5000,C,WANAKA,Safety,Capell Ave - Bodkin St to toilets footpath,
+9906,62000,C,WAKATIPU,Amenity,Ramshaw Ln car park project top-up,
+9907,500,C,WAKATIPU,Accessibility,Frankton corner shops No Passenger Veh Parking,
+9908,1500,D,WAKATIPU,Amenity,Sainsbury Rd no large passenger vehicle parking,LR
+9909,500,C,WAKATIPU,Safety,Malaghans 70km/h repeater,
+9911,26500,D,WAKATIPU,Safety,Gibbston Road Ottaseal,LR
+9912,1000,C,WANAKA,Accessibility,Winery signage,
+9913,1591.85,C,WANAKA,VfM,Myra St street light upgrade,
+9914,3344.17,C,WANAKA,Safety,Peter Fraser Park car park twin head street light,
+9915,9290,C,WAKATIPU,Safety,Buckingham St library antique light,
+9916,85000,D,WAKATIPU,Safety,Ballarat St at Stanley St SE corner footpath upgrade,WC
+9917,50000,C,WAKATIPU,Safety,Hallenstein St at Weaver speed treatment,
+9918,10000,C,WAKATIPU,Safety,Morries Ln traffic calming,
+9919,8000,C,WAKATIPU,Accessibility,Accessway to 285-259 parking management,
+9921,1040000,P,WANAKA,Safety,Wanaka town centre shared space,
+9922,26000,N,WANAKA,Safety,Dangerous trees Wanaka,
+9923,50000,N,CROWN RANGE SPR,Resilience,Resilience Crown Range SPR,
+9924,5.00E+05,N,WAKATIPU,TTR,Edith Cavell Bridge duplication - interim solution,
+9925,41000,N,WAKATIPU,Safety,Dangerous trees Wakatipu,
+9926,15000,D,GLENORCHY SPR,Safety,Dangerous trees Glenorchy SPR,LR
+9927,3.00E+05,N,GLENORCHY SPR,Resilience,Reslience projects Glenorchy SPR,
+9929,1000,C,WAKATIPU,Accessibility,"46, 48 & 50 Judge and Jury Drv access sign",
+9930,3000,P,WANAKA,Safety,Stone St flag light,LR
+9931,3000,P,WANAKA,Safety,Rodeo Dr flag light,LR
+9933,50000,D,WAKATIPU,Safety,Brunswick St lighting upgrade,LR
+9934,300,C,WANAKA,Accessibility,WRC directional sign,
+9935,0,C,WAKATIPU,Accessibility,Brecon St kindergartens sign,
+9936,34183,IC,WAKATIPU,Safety,Wynyard Cres pedestrian improvements,
+9937,500,C,WAKATIPU,Accessibility,Maori Jack Rd sign,
+9938,8300,C,WANAKA,Safety,Dungarvon St lighting reconfiguration,
+9939,50000,C,WANAKA,Safety,Capell Ave at Domain Rd intersection upgrade Part 1 Design,
+9940,500,C,WAKATIPU,Safety,No Exit St Georges Ave,
+9941,0,C,WAKATIPU,Safety,Mirror for ABBA Court Motel access,LR
+9942,10000,D,WAKATIPU,Safety,Lucas Pl at airport northern side pedestrian direction,WC
+9943,500,C,WAKATIPU,Safety,NO EXIT Woddley Pl,
+9944,500,C,WANAKA,Safety,Slippery gravel surface sign Gladston Rd,
+9945,1000,D,WANAKA,Amenity,Luggate pedestrian bridge repaint,LR
+9946,20000,D,WAKATIPU,Safety,Stalker Rd before Regent St guardrail extension,R2Z
+9947,15000,C,WAKATIPU,Accessibility,McBride - state highway pedestrian link,
+9948,3231,C,WAKATIPU,VfM,Berkshire Street Foothpath Remediation Pt 1,
+9949,0,C,WAKATIPU,Accessibility,Industrial Place - No Parking on Grass signage,
+9950,500,C,WANAKA,Accessibility,Ruby Island Rd - Signage 200m to Ruby Island Rd,
+9952,5000,D,WAKATIPU,Safety,Goldfield heights - handrail,WC
+9953,225000,D,WAKATIPU,Safety,Malaghans at Dalefield Rd intersection improvements,R2Z
+9954,600,D,GLENORCHY SPR,Safety,Bridges,LR
+9955,43000,C,GLENORCHY SPR,Safety,Glenorchy Rd at 17.3km safety barrier,
+9956,134395,C,GLENORCHY SPR,Safety,Glenorchy Rd at 17.9km safety barrier,
+9957,174139.5,C,GLENORCHY SPR,Safety,Glenorchy Rd at 15.5km safety barrier,
+9958,166203,C,GLENORCHY SPR,Safety,Glenorchy Rd at 24.9km safety barrier,
+9959,202311,C,GLENORCHY SPR,Safety,Glenorchy Rd at 25.9km safety barrier,
+9960,23020,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9961,17970,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9962,24500,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9963,39450,D,GLENORCHY SPR,Safety,Bridges,LR
+9964,13400,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9965,84160,D,GLENORCHY SPR,Safety,Bridges,LR
+9966,13400,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9967,23000,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9968,23000,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9969,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9970,19750,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9971,19750,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9972,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9973,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9974,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9975,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9976,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9977,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9978,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9979,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9980,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9981,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9982,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9983,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9984,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9985,179866.67,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9986,198500,D,GLENORCHY SPR,Safety,Geotechnical Investigation,LR
+9987,4000,D,GLENORCHY SPR,Safety,Line Marking,R2Z
+9988,13400,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9989,18000,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9990,25000,D,GLENORCHY SPR,Safety,Safety barrier,R2Z
+9991,33080,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9992,41465,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9993,31000,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9994,37760,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9995,40000,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9996,87000,D,GLENORCHY SPR,Safety,Safety Barrier,LR
+9997,48970,C,GLENORCHY SPR,Safety,Glenorchy Rd at 30km safety barrier,
+9998,43000,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+9999,40604,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10000,141644.25,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10001,118944,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10002,52474,C,GLENORCHY SPR,Safety,Glenorchy Rd at 18.2km safety barrier,
+10003,106200,C,GLENORCHY SPR,Safety,Glenorchy Rd at 19.2km safety barrier,
+10004,118413,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10005,91995.75,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10006,105172.5,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10007,77392,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10008,1080000,D,GLENORCHY SPR,Safety,Passing/ Slow vehicle Lane,LR
+10009,2016000,D,GLENORCHY SPR,Safety,Passing/ Slow vehicle Lane,LR
+10010,2160000,D,GLENORCHY SPR,Safety,Passing/ Slow vehicle Lane,LR
+10011,3600000,D,GLENORCHY SPR,Safety,Passing/ Slow vehicle Lane,LR
+10012,2560000,N,GLENORCHY SPR,Safety,Roading,
+10014,77780,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10015,90270,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10016,83930,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10017,83930,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10018,126000,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10019,122130,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10020,64300,D,GLENORCHY SPR,Safety,Safety Barrier,LR
+10021,70800,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10022,134520,D,GLENORCHY SPR,Safety,Safety Barrier,LR
+10023,7375,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10024,14750,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,WC
+10025,242667,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10026,233109,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10027,188859,C,GLENORCHY SPR,Safety,Glenorchy Rd at 26.5km safety barrier,
+10028,161955,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10029,345150,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10030,157235,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10031,175761,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10032,397807.5,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10033,159300,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10034,175230,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10035,73750,D,GLENORCHY SPR,Safety,Mull St/Paradise Rd pedestrian facility,WC
+10036,147500,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10037,29500,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,WC
+10038,250750,D,GLENORCHY SPR,Safety,Safety Barrier,R2Z
+10039,368750,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10040,125000,C,GLENORCHY SPR,Safety,Mull St footpath,
+10042,16500,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10043,526000,D,GLENORCHY SPR,Safety,Bridges,LR
+10044,32000,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10045,14750,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10046,14750,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10047,1315000,D,GLENORCHY SPR,Safety,Bridges,LR
+10048,44250,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10049,70000,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10050,88500,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,R2Z
+10051,14750,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10052,106515,D,GLENORCHY SPR,Safety,Bridges,R2Z
+10053,35505,D,GLENORCHY SPR,Safety,Bridges,LR
+10054,78900,D,GLENORCHY SPR,Safety,Bridges,R2Z
+10055,8850000,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,R2Z
+10056,47340,D,GLENORCHY SPR,Safety,Bridges,LR
+10057,23670,D,GLENORCHY SPR,Safety,Bridges,LR
+10058,18410,D,GLENORCHY SPR,Safety,Bridges,LR
+10059,52600,D,GLENORCHY SPR,Safety,Bridges,LR
+10060,120000,D,GLENORCHY SPR,Safety,Routeburn RP5600 bridge approach improvements,R2Z
+10061,1180000,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,LR
+10062,170950,D,GLENORCHY SPR,Safety,Bridges,LR
+10063,88500,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,R2Z
+10064,368750,D,GLENORCHY SPR,Safety,Misc. Safety Improvements,R2Z
+10065,0,C,GLENORCHY SPR,Safety,signage,
+10066,0,C,GLENORCHY SPR,Safety,signage,LR
+10067,0,C,GLENORCHY SPR,Safety,signage,LR
+10068,0,C,GLENORCHY SPR,Safety,signage,LR
+10069,0,C,GLENORCHY SPR,Safety,signage,LR
+10070,0,C,GLENORCHY SPR,Safety,signage,LR
+10071,0,C,GLENORCHY SPR,Safety,signage,LR
+10072,0,C,GLENORCHY SPR,Safety,Signage,LR
+10073,0,C,GLENORCHY SPR,Safety,signage,LR
+10074,0,C,GLENORCHY SPR,Safety,signage,LR
+10075,22500,D,GLENORCHY SPR,Safety,signage,WC
+10076,5900,D,GLENORCHY SPR,Safety,signage,R2Z
+10078,6750,D,GLENORCHY SPR,Safety,signage,LR
+10079,6750,D,GLENORCHY SPR,Safety,signage,LR
+10080,8850,D,GLENORCHY SPR,Safety,signage,LR
+10081,9000,D,GLENORCHY SPR,Safety,signage,R2Z
+10082,0,C,GLENORCHY SPR,Safety,Mull St at 0.3km speed feedback sign,
+10083,45000,D,GLENORCHY SPR,Safety,signage,R2Z
+10084,11250,D,GLENORCHY SPR,Safety,signage,LR
+10085,5625,D,GLENORCHY SPR,Safety,signage,LR
+10093,16875,C,CROWN RANGE SPR,Safety,Crown Range Rd guardrail @ RP16850,
+10097,10122,C,CROWN RANGE SPR,Safety,Crown Range summit car park entrance upgrade Pt 1,
+10100,11250,C,WAKATIPU,Safety,Crown Range Rd guardrail @ 12400,
+10101,16875,C,CROWN RANGE SPR,Safety,Crown Range Rd guardrail @ RP14511,
+10102,14063,C,CROWN RANGE SPR,Safety,Crown Range Rd guardrail @ RP14794,
+10103,16875,C,CROWN RANGE SPR,Safety,Crown Range Rd guardrail @ RP15038,
+10105,22500,C,WAKATIPU,Safety,Crown Range Rd guardrail @ RP16190,
+10209,500,C,WANAKA,Safety,Golf Course Rd elderly ped signs,
+10210,300,C,WANAKA,Accessibility,Ardmore St south of Lakeside Rd loading zone,
+10212,3000,D,WAKATIPU,Safety,Reconfig Hawthorn left turn into Remarks Park,R2Z
+10213,1000,D,WANAKA,Safety,Motatapu Road - Corner signage,LR
+10214,20000,D,WANAKA,Safety,Motatapu Rd bridge guradrail,R2Z
+10215,2.00E+05,D,WAKATIPU,Accessibility,Larch Hill Pl/Panners Way - Pedestrian link,WC
+10216,0.01,C,WAKATIPU,Safety,Brecon Street - Gondola roundabout,
+10217,1000,D,WAKATIPU,Safety,Hawthorne Dr at Glenda Dr cycling provisions,WC
+10218,10000,D,WAKATIPU,Safety,Arrowtown Lake Hayes Road - Verge parking,LR
+10220,4000,D,WAKATIPU,Safety,Alder Ave new footpath,WC
+10222,150,C,WANAKA,Safety,Lakeview Tce children warning sign,
+10223,10000,D,WAKATIPU,Safety,Stalker Road - New footpath,WC
+10224,0,C,WANAKA,Accessibility,Wanaka Airport - No Camping Signs,
+10225,6000,D,WAKATIPU,Safety,Centennial Ave pedestrian warning signs,WC
+10226,20000,D,WAKATIPU,Safety,Riverside Rd traffic calming,R2Z
+10227,1000,D,WAKATIPU,Safety,Oxenbridge Tunnel Rd entrance protection,R2Z
+10228,30000,D,WAKATIPU,Safety,Centennial Avenue - School Crossing,WC
+10229,41675,IC,WAKATIPU,Safety,Centennial Avenue - New footpath to school,
+10230,30000,D,WAKATIPU,Safety,Centennial Avenue - Traffic Calming,R2Z
+10231,25000,P,WAKATIPU,Safety,Kingston library parking improvements,LR
+10232,5000,D,WAKATIPU,Safety,Morries Lane - Traffic calming,R2Z
+10234,2000,C,WANAKA,Safety,Dungarvon St - Pedestrian Crossing,
+10236,15000,D,WANAKA,Safety,Alison Avenue - Blind Corner treatment,R2Z
+10239,20000,D,WAKATIPU,Safety,Robins Road - Traffic Calming,R2Z
+10240,10000,D,WAKATIPU,Safety,Nairn Street - Traffic Calming,R2Z
+10241,500,C,WANAKA,Accessibility,Hikuwai Dr - No River Access sign,
+10242,0,C,WAKATIPU,Safety,Richards Park Lane - Mirror,
+10244,0,C,WANAKA,Safety,McLennan Rd sharp corner signs,LR
+10246,0,C,WAKATIPU,Amenity,Brecon St car park No Parking on Verge signs,
+10247,45000,D,WAKATIPU,Safety,McKerrrow Place - Streetlight review,LR
+10249,10000,P,WANAKA,Safety,Ballantyne Rd - New Streetlight,LR
+10250,30000,D,WAKATIPU,Safety,Frankton Bus Stop - Lighting,LR
+10251,5000,D,WAKATIPU,Safety,Adamson Drive - Bus Stop Lighting,LR
+10252,0,C,WAKATIPU,Safety,Mull St verge parking treatment,LR
+10253,30000,D,WAKATIPU,Safety,Brunswick/Lake Esp intersection rejig,R2Z
+10254,5.00E+05,D,WAKATIPU,Amenity,Oregon Drv kerbs and channels (stormwater),LR
+10256,40000,D,WAKATIPU,Safety,Maxwell Pl barrier,R2Z
+10257,0,C,WAKATIPU,Safety,Dalefield cycle safety,LR
+10258,10000,D,WAKATIPU,Safety,Bridesdale entrance traffic calming,R2Z
+10259,20000,D,WAKATIPU,Safety,Lucus Pl pedestrian crossing points,WC
+10260,3000,D,WAKATIPU,Safety,Denbeigh/Stafford sight distance issues,LR
+10261,50000,C,WANAKA,Amenity,Luggate car park improvements,
+10262,35000,D,WAKATIPU,Safety,Arthurs Pt Rd footpath to bus stop,WC
+10263,1.00E+05,C,WAKATIPU,Safety,Kinloch Rd raising - location 2,
+10264,10000,C,WAKATIPU,Safety,Dalefield Rd S-bend guardrail,
+10266,50000,D,WAKATIPU,Safety,Lower Shotover Rd safety improvements Part 1. Design,R2Z
+10267,50000,D,WANAKA,Amenity,Unsealed Beacon Point Rd dust treatment,LR
+10268,50000,D,WAKATIPU,Safety,Tucker Beach Rd sharp bend guardrail,R2Z
+10269,11486,C,WAKATIPU,Safety,Thompson St traffic calming,
+10270,10000,C,WAKATIPU,Amenity,Searl Ln stormwater control for Taco Medic,
+10271,5000,C,WAKATIPU,Safety,1 Mile roundabout/car park block out,
+10272,10000,D,WAKATIPU,Safety,Trail accessway from Centennial traffic calming,R2Z
+10273,4.00E+05,IC,WANAKA,Safety,Aubrey Rd cycle/walkway sealing - Section 1,
+10274,1000,D,WANAKA,Safety,Frederick St sight distance,LR
+10277,15000,D,WAKATIPU,Safety,Turner St Lighting Upgrade,LR
+10278,35000,D,WANAKA,Safety,Youghal street Lighting Upgrade,LR
+10279,35000,D,WANAKA,Safety,Roche St lighting upgrade,LR
+10280,30000,D,WANAKA,Safety,Dungarvon St lighting upgrade,LR
+10281,120000,D,WANAKA,Safety,Ewing Pl Lighting Upgrade,LR
+10282,66000,D,WAKATIPU,VfM,Lucus/Hawthorne/Riverside subsoil drainage,LR
+10283,75000,D,WAKATIPU,Safety,Panorama Terrace Footpath widening,WC
+10284,20000,D,WAKATIPU,Safety,Coronet Peak Rd base car park gate,LR
+10285,10000,D,WAKATIPU,Safety,Arawata terrace bus shelter street light.,LR
+10286,20000,D,WAKATIPU,Safety,Arawata fill-in lighting,LR
+10287,2000,D,WAKATIPU,Amenity,Coal Pit Rd bus stop conversion,LR
+10288,10000,D,WAKATIPU,Safety,Lake Ave traffic calming outside the FAT,WC
+10289,70000,C,WAKATIPU,Safety,Redfern Tce guardrail/pedestrian fence,
+10290,0,C,WAKATIPU,Accessibility,Mull St toilet direction sign at Oban St,
+10291,15000,D,WAKATIPU,Safety,Lake Ave outside FAT street light.,LR
+10292,10000,P,WANAKA,Safety,Lighting Lagoon Ave path south of Bernard,LR
+10293,5000,D,WAKATIPU,Safety,Atley Road traffic calming,R2Z
+10294,10000,D,WAKATIPU,Amenity,Possible drainage outside 53 Centennial,LR
+10295,20000,D,WAKATIPU,Safety,Illumination of Hunter/Speargrass,LR
+10296,10000,D,WAKATIPU,Safety,Frankton Rd accessways traffic calming,R2Z
+10297,2500,D,WANAKA,Safety,Old Wanaka Firestation kerb upgrade,LR
+10298,87000,D,GLENORCHY SPR,Safety,Traffic calming and slow vehicle management,R2Z
+10299,3.00E+05,P,WAKATIPU,Safety,Glenda Dr footpath duplication and upgrade,WC
+10300,3100,D,GLENORCHY SPR,Safety,signage,WC
+10302,50000,D,WAKATIPU,Safety,Gy Rd road condition sign,R2Z
+10303,4965,IC,WAKATIPU,Safety,Cow Ln pedestrian crossing,
+10304,2000,D,WAKATIPU,Safety,Shotover rat runs,R2Z
+10305,10000,D,WAKATIPU,Safety,At-LH Rd speed feedback sign,R2Z
+10306,1.00E+05,D,GLENORCHY SPR,Safety,Glenorchy Lagoon lookout,LR
+10307,2000,D,WANAKA,Accessibility,Nichol to Grandview footpath connection,WC
+10308,10000,D,WAKATIPU,Resilience,Chard farm Rd slip rebuild,LR
+10309,47946,C,WAKATIPU,Accessibility,Industrial Pl to Gorge Rd car park footpath,
+10310,20000,D,WAKATIPU,Accessibility,Highview/Andrews Rd ped link,WC
+10311,30000,C,CROWN RANGE SPR,Safety,Eastbourne gates winter safety container,
+10312,1500,C,WANAKA,Accessibility,Wanaka cycle stands,
+10313,5000,C,WAKATIPU,Safety,Atley Rd pump station guard rail,
+10314,32000,C,WANAKA,Safety,Camp Hill Rd power pole guard rail,
+10315,32000,C,WAKATIPU,Safety,Glenda Dr remark after EAR construction,
+10316,5000,C,WANAKA,Safety,Aubrey Rd speed restriction,
+10317,250000,D,WANAKA,Accessibility,Matai and Beech footpatths,WC
+10318,360000,P,WANAKA,Safety,Rata St traffic calming,R2Z
+10319,11840,C,WANAKA,Safety,Beacon Pt-Penrith Park speed advisories,
+10320,50000,D,WANAKA,Safety,Penrith Park wall safety,LR
+10321,10000,P,WANAKA,Safety,Beacon Pt-Penrith Park Rds intersection light,LR
+10322,0,C,WAKATIPU,Safety,Anglesea St chicanes,
+10323,10000,D,WAKATIPU,Safety,Denbigh & Anglesea/Caernarvon intersection treatments,R2Z
+10326,119444,C,WAKATIPU,Safety,Gorge Rd retail center guardrail,
+10327,20000,D,WAKATIPU,Resilience,Coal Pit Rd drainage redirection to Franks Creek,LR
+10328,20000,D,WANAKA,Safety,Dungarvon & Ardmore intersection improvements,R2Z
+10329,25000,P,WANAKA,Safety,Cardona Valley Rd at medical center footpath connections,WC
+10330,7.00E+05,D,WAKATIPU,Safety,Stalker Rd bus lane and footpath to State Highway,PTI
+10331,50000,C,WANAKA,Resilience,Timaru Creek Rd shoulder drop-out fix,
+10332,10000,D,WANAKA,Accessibility,Daniel Tce to West Meadows Dr footpath connection,WC
+10333,1.00E+06,D,WAKATIPU,Resilience,Butlers Green wall repair and reslience,LR
+10334,5000,D,WAKATIPU,Safety,Lighting steps Hay to Shotover,LR
+10335,15000,D,WAKATIPU,Safety,Lighting improvements to Gorge Rd,LR
+10336,3000,D,WAKATIPU,Safety,Anderson Heights lighting,LR
+10337,3.00E+05,IC,WANAKA,Safety,Aubrey Rd cycle/walkway sealing - Section 2,
+10338,3.00E+05,IC,WANAKA,Safety,Aubrey Rd cycle/walkway sealing - Section 3,
+10339,3.00E+05,IC,WANAKA,Safety,Aubrey Rd cycle/walkway sealing - Section 4,
+10340,15000,D,WAKATIPU,Safety,Ferry Hill Dr lighting from Tuckers Beach,LR
+10341,80000,D,WAKATIPU,Safety,Skippers Rd intersection seal extension,R2Z
+10342,23547,C,WAKATIPU,Safety,Jock Boyd Pl footpath,
+10343,40000,D,WANAKA,Safety,Gunn Rd parking bay at bike park,WC
+10344,50000,C,WANAKA,Safety,19/20 Wanaka general signs and lines,
+10345,50000,C,WAKATIPU,Safety,Wakatipu general signs and lines,
+10346,1.00E+05,P,WAKATIPU,Safety,Hawthorne/Red Oaks signals - half share,R2Z
+10347,60000,C,CROWN RANGE SPR,Safety,Cardrona southern speed limit threshold path extension,
+10348,185000,C,WANAKA,Safety,Hawea Dam control structure/Capell Ave barrier upgrade,
+10349,220000,C,WANAKA,Accessibility,Footpath upgrade near medical centre 19/20,
+10350,80000,D,WAKATIPU,Safety,Wiltshire pedestrian safety upgrades,WC
+10351,21000,C,WAKATIPU,Safety,Hawthorne Dr at Lucas Pl footpath,
+10352,30000,D,WANAKA,Safety,"Cardrona, southbound speed feedback sign",R2Z
+10353,2000,D,WANAKA,Safety,Camp Hill Rd bridge speed advisories,LR
+10354,33000,C,WANAKA,Resilience,Aspiring Tce stabilisation Pt 1 design,
+10355,808828,IC,WAKATIPU,Safety,Arthurs Point cycle and ped improvements,
+10356,16250,P,WANAKA,Safety,CARDRONA VALLEY ROAD -  Widen shoulder of road@RP 15800,R2Z
+10357,50625,P,WANAKA,Safety,CARDRONA VALLEY ROAD -  Intersection improvements@RP 3600,R2Z
+10358,33750,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Seal improvements@RP 3200,R2Z
+10359,45000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 5680,R2Z
+10360,40000,C,WANAKA,Safety,Cardrona Valley Rd -  Safety barrier installation @RP 3200,
+10361,226250,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 11830,
+10362,45000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 3600,R2Z
+10363,79000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 3200,R2Z
+10364,118125,D,WANAKA,Safety,"CARDRONA VALLEY ROAD -  Relocation of power pole, safety barrier@RP 15250",R2Z
+10365,79000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 2900,R2Z
+10366,50625,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 6000,R2Z
+10367,112000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Extend existing safety barrier both sides @ RP 8530,R2Z
+10369,106875,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation @ RP 9580,R2Z
+10371,90000,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 13700,
+10372,124650,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 14234,R2Z
+10373,70875,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 15662,R2Z
+10374,73125,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Extend existing safety barrier@RP 17900,R2Z
+10375,90325,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 19110,
+10376,78750,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 20600,R2Z
+10377,56250,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 3600,R2Z
+10378,180000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 8850,R2Z
+10379,393750,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 10700,R2Z
+10380,193500,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 12400,R2Z
+10381,292500,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 13000,R2Z
+10382,0,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install advance school bus warning signage @ RP 8410,LR
+10383,0,N,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install curve arrow sign@RP 11600,
+10384,0,N,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install chevrons@RP 11600,
+10385,0,N,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install advance signage and chevrons@RP 3600,
+10386,4500,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install advance tourist signage@RP 15800,LR
+10387,0,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Remove vegetation@RP 15800,
+10388,4500,P,WANAKA,Safety,CARDRONA VALLEY ROAD -  Remove existing tree@RP 16695,
+10389,0,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Remove existing tree@RP 3845,
+10391,79000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Safety barrier installation@RP 2100,R2Z
+10392,67000,P,CROWN RANGE SPR,Safety,Cardrona Vally Rd pedestrian facilities and traffic calming at the Cardrona Hotel,R2Z
+10393,0,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install advanace tourist signage@RP 3945,LR
+10394,6750,P,CROWN RANGE SPR,Safety,CARDRONA VALLEY ROAD -  Replace one non-compliant terminal@RP 130,R2Z
+10395,13500,P,CROWN RANGE SPR,Safety,CARDRONA VALLEY ROAD -  Replace two non-compliant terminals@RP 195,R2Z
+10396,6750,D,CROWN RANGE SPR,Safety,CARDRONA VALLEY ROAD -  Replace one non-compliant terminal@RP 530,R2Z
+10397,13500,P,CROWN RANGE SPR,Safety,CARDRONA VALLEY ROAD -  Replace two non-compliant terminals@RP 789,R2Z
+10398,13500,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Replace two non-compliant terminals@RP 2358,R2Z
+10399,6750,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Replace one non-compliant terminal@RP 13929,R2Z
+10400,21500,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Remove existing trees@RP 15675,LR
+10401,6500,C,CROWN RANGE SPR,Safety,CARDRONA VALLEY ROAD -  Remove existing tree@RP 45,R2Z
+10403,6500,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Remove existing tree@RP 6380,LR
+10405,40000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Widen shoulder and add slip lane@RP 8410,LR
+10406,276000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Alignment improvement intersection ingress from RH turn@RP 21690,R2Z
+10407,315000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install roundabout/dumbell @RP 23770,R2Z
+10408,360000,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install roundabout/dumbell @RP 24430,R2Z
+10409,60750,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Retaining wall construction@RP 9830,LR
+10410,1125,N,WANAKA,Safety,CARDRONA VALLEY ROAD -  Install direction signs@RP 8410,
+10411,1125,C,WANAKA,Safety,CARDRONA VALLEY ROAD -  Relocation of sign@RP 15662,
+10413,16500,D,WANAKA,Safety,CARDRONA VALLEY ROAD -  Relocation of fence@RP 14600,R2Z
+10414,0,D,CROWN RANGE SPR,Safety,CARDRONA VALLEY ROAD -  Monitor trees in swale@RP 1200,LR
+10415,50625,D,CROWN RANGE SPR,Safety,Cardrona Valley Rd -  Straighten alignment @ RP809,LR
+10416,45000,D,WANAKA,Safety,"CARDRONA VALLEY ROAD -  Catchment analysis, channel clearing and drainage works@RP 3200",LR
+10417,105000,D,WANAKA,Safety,"CARDRONA VALLEY ROAD -  Drainage improvements, catchment analysis@RP 3600",LR
+10418,10000,D,WANAKA,Accessibility,Frye Cres footpath connection,WC
+10419,10000,P,WANAKA,Safety,Little St lighting,LR
+10420,1.00E+05,D,CROWN RANGE SPR,Safety,"Cardrona Valley Rd, Cardrona south lighting installation",LR
+10421,20000,D,WAKATIPU,Safety,Broadview Rise lighting upgrade,LR
+10422,60000,D,WAKATIPU,Safety,Peninsula Rd additional lighting due to deer,LR
+10424,0,C,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350,LR
+10426,33750,D,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350,R2Z
+10428,0,C,WAKATIPU,Safety,Crown Range Rd - Chevrons Zig Zag Corners,LR
+10429,18984,C,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700,R2Z
+10431,112500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350,R2Z
+10432,22500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800,R2Z
+10433,22500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 8760,R2Z
+10435,25000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11530,LR
+10436,20000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12200,LR
+10441,16875,C,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 15240,R2Z
+10443,16875,C,CROWN RANGE SPR,Safety,Crown Range Rd -  barrier extension @RP 17880,
+10444,9.00E+05,P,WAKATIPU,Safety,Crown Range Road -  Zig zag lookout upgrade,
+10445,160000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 8730,
+10446,220000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 9350,R2Z
+10447,255000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12021,LR
+10448,240000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12110,LR
+10449,50000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 6880,LR
+10450,33750,P,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800,R2Z
+10451,45000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 8500,
+10452,128125,C,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 10200,
+10453,39375,C,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 13000,R2Z
+10454,28125,C,CROWN RANGE SPR,Safety,Crown Range Rd - barrier @RP 14020,
+10455,36000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 21300,
+10456,10000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12250,LR
+10457,6000,P,CROWN RANGE SPR,Safety,Crown Range Road -  Bridges and Structures @RP 15774,R2Z
+10458,,C,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800,
+10459,0,C,CROWN RANGE SPR,Safety,Crown Range Road -  Signage & Delineation @RP 7900,LR
+10460,0,C,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 8760,LR
+10461,0,C,CROWN RANGE SPR,Safety,Crown Range Road -  Signage & Delineation @RP 19350,LR
+10462,67500,C,WAKATIPU,Safety,Crown Range Road -  Extend guardrails on zig zag corners,
+10463,56250,C,CROWN RANGE SPR,Safety,Crown Range Rd -  top of zig zags barrier @RP 2840,
+10464,56250,D,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700,R2Z
+10465,60000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11850,LR
+10466,90000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 19350,
+10467,58350,P,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 7800,R2Z
+10468,30000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12250,LR
+10469,42000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12250,LR
+10470,15000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12439,LR
+10471,15000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12457,LR
+10472,18984,C,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700,LR
+10473,66000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 7650,R2Z
+10474,135000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 9650,LR
+10475,16875,D,WAKATIPU,Safety,Crown Range Road - repair guardrails on zig zags,LR
+10476,11250,D,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 8040,R2Z
+10477,10000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12200,
+10478,11250,D,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 15140,LR
+10479,675000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 8500,LR
+10480,2.00E+05,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 9000,LR
+10481,240000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12200,LR
+10482,4500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Bridges and Structures @RP 14714,R2Z
+10483,4500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Bridges and Structures @RP 15953,R2Z
+10484,28125,D,WAKATIPU,Safety,Crown Range Rd - seal inside zig zag corners,R2Z
+10485,29000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7600,
+10486,35000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 8400,
+10487,30000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 10880,LR
+10488,45000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11100,LR
+10490,15000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 18250,LR
+10491,33750,P,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 19200,R2Z
+10492,33750,C,CROWN RANGE SPR,Safety,Crown Range Rd -  bridge barrier terminal upgrades @RP 22510,
+10493,,C,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 6700,R2Z
+10494,225000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Signage & Delineation @RP 7900,R2Z
+10495,11250,D,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 8760,R2Z
+10496,22500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 9250,LR
+10497,14500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 11250,LR
+10498,17000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Safety (Barrier) @RP 11900,LR
+10499,16875,C,CROWN RANGE SPR,Safety,Crown Range Rd -  Chain Bay 2 barrier @RP 13000,
+10500,18984,C,CROWN RANGE SPR,Safety,Crown Range Road -  Chain Bays & Pull Over Areas @RP 14200,LR
+10501,56250,C,CROWN RANGE SPR,Safety,Crown Range Rd - culvert barrier @RP 3200,
+10502,140000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7790,
+10503,90000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 8070,
+10504,120000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 8830,LR
+10505,135000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 9065,LR
+10506,1.00E+05,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 9450,LR
+10507,120000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 10052,LR
+10508,75000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11250,LR
+10509,80000,C,CROWN RANGE SPR,Safety,Crown Range Rd -  barrier for culverts @RP 14240,
+10510,70000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7900,LR
+10511,40000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7200,LR
+10512,360000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 6900,LR
+10513,450000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7450,LR
+10514,35000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12457,LR
+10515,21000,P,CROWN RANGE SPR,Safety,Crown Range Road -  Bridges and Structures @RP 15125,R2Z
+10516,150000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7000,LR
+10517,112500,C,CROWN RANGE SPR,Safety,Crown Range Rd - barrier upgrade @RP 8100,
+10518,115000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11700,LR
+10519,120000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11700,LR
+10520,73000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11800,LR
+10521,60000,D,WAKATIPU,Safety,Crown Range Road -  Pavement rehab @RP 1200,LR
+10522,27500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 11250,LR
+10523,5000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 17340,LR
+10524,1214000,D,WAKATIPU,Safety,Crown Range Rd -  slope stabilisation on zig zags,LR
+10526,7800000,D,WAKATIPU,Safety,Crown Range Road -  Geotech @RP 3000,
+10527,47500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 14794,LR
+10528,25000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12678,LR
+10529,25000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12790,LR
+10530,13000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 13290,LR
+10531,25000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 18545,LR
+10532,120000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12678,LR
+10533,85000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12900,LR
+10534,87500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 15125,LR
+10535,66000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 17689,LR
+10536,35000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 12532,LR
+10537,37000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 15700,LR
+10538,3000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Bridges and Structures @RP 19249,R2Z
+10539,55000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 13700,LR
+10540,27000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 15125,LR
+10541,22500,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 21336,LR
+10542,3000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Bridges and Structures @RP 23190,R2Z
+10543,70000,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 15650,LR
+10544,1.80E+07,D,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 15170,LR
+10545,5060,C,WAKATIPU,Safety,Crown Range Rd -  slip scaling RP 600,
+10546,4700,C,CROWN RANGE SPR,Safety,Crown Range Rd -  scaling @RP 8410,
+10548,29000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7600,
+10549,4000,C,CROWN RANGE SPR,Safety,Crown Range Road -  Geotech @RP 7790,
+10550,2.00E+05,D,WANAKA,Safety,Capell Ave footpath from rec ground to Lakeview,WC
+10551,10000,D,WANAKA,Safety,McLennen Rd turn-around at Maude View,LR
+10552,4000,C,WANAKA,Safety,Pedestrian drop crossings on Meadowstone,
+10553,11479,C,WANAKA,Safety,Pedestrian drop crossings on Mt Aspiring Rd at Meadowstone,
+10554,10000,D,WAKATIPU,Safety,Kent St speed limit threshold,R2Z
+10555,20000,D,WAKATIPU,Amenity,Spence Rd turn around upgrade,LR
+10556,50000,D,WANAKA,Safety,Wanaka Centre car park traffic calming,R2Z
+10557,35000,C,WAKATIPU,Safety,Penrich Court Retaining Wall,
+10558,14491,C,WANAKA,Safety,Cardrona Valley Rd Safety Review,
+10559,5.00E+05,C,WANAKA,Safety,SH8A underpass at Sir Tim Wallis Dr,
+10560,5347,IC,WAKATIPU,Safety,Skippers Rd signs and edge markers,
+10561,9.00E+05,D,WAKATIPU,Safety,Footpath duplication and upgrade,WC
+10562,5.00E+05,C,GLENORCHY SPR,Safety,Bennetts Bluff alternative passing bay,
+10563,150000,D,WANAKA,Resilience,Raspberry Creek ford upgrade,LR
+10564,1.00E+05,P,WANAKA,Safety,Golf Course Rd/Ballantyne Rd intersection upgrade,
+10566,4800,P,WAKATIPU,Safety,Jack Reid Park path flattening,
+10567,80000,D,WAKATIPU,Safety,Gorge Rd footpath - McMillan to Oxenbridge,WC
+10568,10000,D,WANAKA,Safety,Brownston Creek car park ped link to Bullock Creek Ln,WC
+10569,1000,D,WANAKA,Accessibility,Spencer Mall bike racks,WC
+10570,1900000,D,WANAKA,Safety,Intersection improvement of Riverbank Road and Ballantyne Road,R2Z
+10571,1.00E+05,C,WANAKA,Safety,Mount Ida Pl soakpit,
+10572,3.00E+05,D,WANAKA,Safety,Ballantyne Rd widening around Fredrick St,R2Z
+10573,250000,P,WANAKA,Accessibility,Aubrey Rd path upgrade - Rata to BP Rd,WC
+10574,2.00E+05,D,WANAKA,Accessibility,SH8A school to pool shared path,WC
+10575,60000,D,WANAKA,Accessibility,SH8A path upgrade - Anderson to Sir TW,WC
+10576,20000,D,WANAKA,Accessibility,Beacon Pt  Rd path upgrade - Waimana to Penrith Park,WC
+10577,50000,C,WAKATIPU,Resilience,Butlers Green alternative stairs,
+10578,24000,C,WAKATIPU,Safety,Stalker Rd at Max's Way stormwater,
+10579,1.00E+05,IC,WANAKA,Safety,20/21 Wanaka general signs and lines,
+10580,50000,P,WANAKA,Safety,21/22 Wanaka general signs and lines,LR
+10581,50000,P,WANAKA,Safety,Wanaka general signs and lines,LR
+10582,50000,P,WANAKA,Safety,Wanaka general signs and lines,LR
+10583,75000,IC,WAKATIPU,Safety,Wakatipu general signs and lines,
+10584,25000,P,WAKATIPU,Safety,Wakatipu general signs and lines,LR
+10585,25000,P,WAKATIPU,Safety,Wakatipu general signs and lines,LR
+10586,50000,P,WAKATIPU,Safety,Wakatipu general signs and lines,LR
+10587,1.00E+05,D,WANAKA,Safety,Aubrey Rd at Albert Town lighting upgrade,LR
+10588,5000,P,WANAKA,Safety,Timsfield Dr cycle track crossing point upgrade Part 1,WC
+10589,590000,IC,WANAKA,Accessibility,Lakeside Rd new footpath and drainage upgrade,
+10590,10000,D,WAKATIPU,Safety,Fernhill to Wynyard path lighting,LR
+10591,0,C,WANAKA,Safety,Matukituki River bridge signage improvements,LR
+10592,6000,P,WANAKA,Safety,Anderson Rd at Aubrey Rd intersection bollards,
+10593,2000,D,WANAKA,Amenity,Alison Ave drainage at 80 and 84,LR
+10594,50000,D,WANAKA,Resilience,Camp Hill Rd culvert at RP4077 lowering,LR
+10595,1000,D,WANAKA,Safety,Matai Rd footpath drop crossings at Manuka Cres.,WC
+10596,10000,D,WANAKA,Resilience,Matai Rd drainage outside #6,LR
+10597,5000,D,WAKATIPU,Safety,Benmore Pl footpath by reserve,WC
+10598,7000,D,WAKATIPU,Safety,Highview Tce speed hump upgrade at Gum Ln,R2Z
+10599,500,D,WAKATIPU,Accessibility,Ramshaw Ln toilet wheel stops before path,WC
+10600,120000,C,WAKATIPU,Safety,Morven Ferry Rd at Arrow Junction intersection upgrade,
+10601,80224,IC,WANAKA,Safety,Nook Rd & Hawea Back Rd intersection upgrade Pt. 2,
+10602,21866,IC,CROWN RANGE SPR,Safety,Crown Range summit car park entrance upgrade Pt 2,
+10603,68273,IC,WAKATIPU,Safety,Fernhill playgrnd ped X point Pt 2,
+10604,78375,IC,WAKATIPU,Safety,Boyes at McBride shorten ped. crossing point Pt 2,
+10605,16484,P,WAKATIPU,VfM,Berkshire Street Footpath Remediation Pt 2,WC
+10606,1.00E+05,D,WANAKA,Safety,Aubrey Rd - Anderson to Northburn lighting,LR
+10607,391808,C,WANAKA,Resilience,Aspiring Tce stabilisation Pt 2 construction,
+10608,20000,D,WAKATIPU,Safety,Southern Access Rd pedestrian crossing facilities,WC
+10609,50000,D,WANAKA,Safety,Makarora residential area footpaths,WC
+10610,80000,D,WANAKA,Safety,Domain from Capell to Noema short term path upgrade,WC
+10611,10628,C,WAKATIPU,Safety,Man St at Duke St pedestrian median island: Part 2,
+10612,7.00E+05,D,WANAKA,Safety,Anderson rd at Aubrey Rd intersection roundabout,R2Z
+10613,28000,D,WANAKA,Safety,Capell Ave barrier between Scotts Beach and Skinner,R2Z
+10614,1000,D,WANAKA,Safety,131 Newcastle Rd truck crossing warning for cyclists,WC
+10615,25000,D,WAKATIPU,Safety,Yewlett/Stuart footpath,WC
+10616,5.00E+05,P,WANAKA,Safety,Capell Ave at Domain Rd intersection upgrade Part 2 Construction,R2Z
+10617,50000,D,WANAKA,Safety,Dungarvon into Tenby intersection improvements,R2Z
+10618,5000,D,WANAKA,Safety,Heron Green cut-through barrier,LR
+10619,2000,D,WANAKA,Safety,Alison Ave footpath drainage outside #63,WC
+10620,75000,D,WANAKA,Safety,MacPherson St traffic calming,R2Z
+10621,547000,IC,WANAKA,Safety,Ballantyne Road rural upgrade,R2Z
+10622,80000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10623,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10624,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10625,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10626,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10627,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10628,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10629,60000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10630,60000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10631,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10632,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10633,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10634,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10635,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10636,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10637,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10638,40000,D,CROWN RANGE SPR,Safety,Crown range SPR rehab associated improvements,R2Z
+10639,116000,D,WAKATIPU,Safety,Malaghans Rd 21/22 rehab associated improvements,LR
+10640,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10641,40000,D,GLENORCHY SPR,Safety,Glenorchy SPR rehab,R2Z
+10642,20000,D,WAKATIPU,Safety,Arthurs Pt Rd formal pedestrian crossing,WC
+10643,15000,D,WAKATIPU,Safety,McDonnell at Centennial flag lighting,LR
+10644,10000,D,WANAKA,Safety,Ardmore St mobility park footpath highlight,WC
+10645,25000,D,WANAKA,Safety,Glendhu Bluff guardrail extension,R2Z
+10646,10000,D,WAKATIPU,Safety,Wynyard Cres ped crossing point improvements,WC
+10647,15000,D,WANAKA,Safety,Gordon Rd ped and cycle crossing to shared path,WC
+10648,10000,D,WANAKA,Safety,Timsfield Dr cycle track crossing point upgrade Part 2,WC
+10649,20000,D,WANAKA,Safety,Cardona Valley Rd at medical center footpath connections,WC
+10650,12000,D,WANAKA,Accessibility,SH84 at 3 Parks underpass removal of stairs,WC
+10651,4.00E+05,D,WAKATIPU,Safety,Gorge & Hallenstein footpath realignment and crossings,WC
+10652,20000,D,WANAKA,VfM,Aubrey Rd opposite 484 storm water improvements,LR
+10653,30000,D,WANAKA,Safety,McDougall St pedestrian crossing points.,WC
+10654,12000,D,WANAKA,Safety,Kent & Gloucester railway crossings safety review,LR
+10655,1.00E+05,D,WAKATIPU,Safety,Speed management or down hill vehicles.,R2Z
+10656,2000,D,WAKATIPU,Accessibility,Athol Street @ Village green - Bike Rack,WC
+10657,4.00E+05,P,WANAKA,Safety,Golf Course Rd/Ballantyne Rd intersection upgrade Part 2,R2Z
+10658,1,N,GLENORCHY SPR,Safety,test,
+10659,5000,D,WANAKA,Safety,Bremner Bay path continuation across parking bay,WC
+10660,750000,D,WAKATIPU,Safety,Lower Shotover Rd widening Part 2. Construction,R2Z
+10661,50000,D,WANAKA,Safety,Ardmore St (upper) golf course to Bottle-O pedestrian link,WC
+10662,20000,D,WAKATIPU,Safety,Buckingham St and Ramshaw Ln pedestrian crossing points,WC
+10663,10000,D,WANAKA,Safety,Mount Gold Pl to Penrith Park Dr footpath,WC
+10664,807100,D,WANAKA,Safety,Mount Aspiring R2Z BOOST,R2Z
+10665,3900,D,WAKATIPU,Safety,Malaghans Rd - Littles to North Ridge speed management,R2Z
+10666,18800,D,WAKATIPU,Safety,Malaghans - North Ridge to Berkshire speed management,R2Z
+10667,46200,D,CROWN RANGE SPR,Safety,Crown Range Rd speed management,R2Z
+10668,28750,P,WAKATIPU,Safety,Wakatipu RSP reallocation by David Scarlet,R2Z
+10669,28750,P,WAKATIPU,Safety,Wakatipu RSP reallocation by David Scarlet,R2Z
+10670,28750,P,WAKATIPU,Safety,Wakatipu RSP reallocation by David Scarlet,R2Z
+10671,28750,P,WANAKA,Safety,Wanaka RSP reallocation by David Scarlet,R2Z
+10672,28750,P,WANAKA,Safety,Wanaka RSP reallocation by David Scarlet,R2Z
+10673,28750,P,WANAKA,Safety,Wanaka RSP reallocation by David Scarlet,R2Z
+10674,0,D,WANAKA,Safety,Gunn Rd traffic calming,LR
+10675,50000,D,WAKATIPU,Safety,Atley Rd exit school bus stop.,LR
+10676,0,D,WANAKA,Safety,Tuohys Gully Rd sealing request,LR
+10677,0,D,WAKATIPU,Safety,Templeton Way footpath drop kerb.,
+10678,0,D,WAKATIPU,Safety,Berkshire st electronic speed information sign,LR
+10679,30000,D,CROWN RANGE SPR,Safety,Cardrona Valley Way/Cardrona - Footpath connection with additional vegetation/landscaping,R2Z
+10680,15000,D,WAKATIPU,TTR,"Grant Road and Central Street, Frankton (Five Mile) - Signals",LR
+10681,350000,D,WANAKA,Safety,"Hedditch Street, Wanaka north - new footpath / footpath widening",WC
+10682,2.00E+05,D,WANAKA,Safety,"Plantation Road, Wanaka north - new footpath / footpath widening",WC
+10683,1,D,WANAKA,Safety,"Near Koru Way, Wanaka north - New footpath and footpath widening",WC
+10684,350000,D,WANAKA,Safety,"Kelly's Flat at Aubrey Road, Wanaka north - New footpath and footpath widening",WC
+10685,0,D,WAKATIPU,Safety,QLDC Bollard Hazard Marker,PTI
+10686,0,D,WAKATIPU,Safety,496 Peninsula Rd - Drainage,LR
