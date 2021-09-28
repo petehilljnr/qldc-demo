@@ -2,9 +2,22 @@ import React, { useEffect, useState } from "react";
 import crossfilter from "crossfilter2";
 import * as d3 from "d3";
 import { Container, Row, Col } from "react-bootstrap";
+import DeckGL from "@deck.gl/react";
+import { GeoJsonLayer } from '@deck.gl/layers';
+import { StaticMap } from "react-map-gl";
 import { RowChart, ChartContext } from "react-dc-js";
 
+const numberFormat = d3.format(".2f");
+const MAPBOX_ACCESS_TOKEN = "pk.eyJ1IjoicGV0ZWhpbGxqbnIiLCJhIjoiY2tyeTMzbHg1MGh2ZjJwbWdnajJucXQ5ayJ9.DXyAy7ku9gSec7OUPeDRIQ";
 function Dashboard() {
+  const INITIAL_VIEW_STATE = {
+    longitude: 168.5326841,
+    latitude: -44.9667646,
+    zoom: 8,
+    pitch: 0,
+    bearing: 0,
+  };
+
   const [cx, setCx] = useState(null);
 
   useEffect(() => {
@@ -31,7 +44,7 @@ function Dashboard() {
   }
 
   const wardDim = cx.dimension((d) => d.ward);
-  const wardCount = wardDim.group().reduceCount();
+  const wardGroupCount = wardDim.group().reduceCount();
 
   const statusDim = cx.dimension((d) => d.status);
   const statusCount = statusDim.group().reduceCount();
@@ -42,30 +55,47 @@ function Dashboard() {
   const outcomeDim = cx.dimension((d) => d.onrcoutcome);
   const outcomeCount = outcomeDim.group().reduceCount();
   
-  const ward2Dim = cx.dimension((d) => d.ward);
-  const ward2Count = ward2Dim.group().reduceSum(d => d.est_cost / 10000);
-
-  const status2Dim = cx.dimension((d) => d.status);
-  const status2Count = status2Dim.group().reduceSum(d => d.est_cost / 10000);
-
-  const activity2Dim = cx.dimension((d) => d.activity_class);
-  const activity2Count = activity2Dim.group().reduceSum(d => d.est_cost / 10000);
-
-  const outcome2Dim = cx.dimension((d) => d.onrcoutcome);
-  const outcome2Count = outcome2Dim.group().reduceSum(d => d.est_cost / 10000);
+  const mapTemp = cx.dimension((d) => d.system_id)
+    
+  const layer = new GeoJsonLayer({
+    id: 'geojson-layer',
+    data: "https://raw.githubusercontent.com/petehilljnr/qldc-demo/master/data/sites.geojson",
+    pickable: true,
+    stroked: true,
+    filled: true,
+    extruded: false,
+    pointType: 'circle',
+    lineWidthScale: 40,
+    lineWidthMinPixels: 2,
+    getFillColor: 'red',
+    //getLineColor: d => colorToRGBArray(d.properties.color),
+    getPointRadius: 100,
+    getLineWidth: 1,
+    getElevation: 30
+  })
 
   return (
     <div className="dashboard">
       <Container fluid>
-      <ChartContext>
-        <h2> Progress Dashboard </h2>
-        <h4> Site Counts </h4>
+        <h3> Progress Dashboard </h3>
         <Row>
-          <Col>            
+          <Col>
+            <DeckGL
+              initialViewState={INITIAL_VIEW_STATE}
+              controller={true}
+              layers={layer}
+            >
+              <StaticMap mapboxApiAccessToken={MAPBOX_ACCESS_TOKEN} />
+            </DeckGL>
+          </Col>
+          <Col> 
+            <ChartContext>
+              <Row>
+                <Col>
                   <p> Sites By Ward </p>
                   <RowChart
                     dimension={wardDim}
-                    group={wardCount}
+                    group={wardGroupCount}
                     height={180}
                     transitionDuration={300}
                     elasticX={true}
@@ -84,6 +114,8 @@ function Dashboard() {
                     title={(d) => `${d.key} : ${d.value} sites`}
                   />
                 </Col>
+              </Row>
+              <Row>
                 <Col>
                   <p> Sites By Activity Class </p>
                   <RowChart
@@ -107,57 +139,10 @@ function Dashboard() {
                     title={(d) => `${d.key} : ${d.value} sites`}
                   />
                 </Col>
+              </Row>
+            </ChartContext>
+          </Col>
         </Row>
-        <h4> Estimated Costs </h4>
-        <Row>
-          <Col>            
-                  <p> Cost By Ward </p>
-                  <RowChart
-                    dimension={ward2Dim}
-                    group={ward2Count}
-                    height={180}
-                    transitionDuration={300}
-                    elasticX={true}
-                    colors={"#fcba03"}
-                    title={(d) => `${d.key} : $ ${Math.round(d.value * 10000)} `}
-                  />
-                </Col>
-                <Col>
-                  <p> Cost by Status </p>
-                  <RowChart
-                    dimension={status2Dim}
-                    group={status2Count}
-                    height={180}
-                    elasticX={true}
-                    colors={"#fcba03"}
-                    title={(d) => `${d.key} : $ ${Math.round(d.value * 10000)} `}
-                  />
-                </Col>
-                <Col>
-                  <p> Cost By Activity Class </p>
-                  <RowChart
-                    dimension={activity2Dim}
-                    group={activity2Count}
-                    height={180}
-                    transitionDuration={300}
-                    elasticX={true}
-                    colors={"#fcba03"}
-                    title={(d) => `${d.key} : $ ${Math.round(d.value * 10000)} `}
-                  />
-                </Col>
-                <Col>
-                  <p> Cost by ONRC Outcome </p>
-                  <RowChart
-                    dimension={outcome2Dim}
-                    group={outcome2Count}
-                    height={180}
-                    elasticX={true}
-                    colors={"#fcba03"}
-                    title={(d) => `${d.key} : $ ${Math.round(d.value * 10000)} `}
-                  />
-                </Col>
-        </Row>
-      </ChartContext>
       </Container>
     </div>
   );

@@ -71,7 +71,7 @@ const Sidebar = () => {
             <img src={clientLogo} alt="QLDC" height={40} />
             </LeftLogo>
             <ClientTitle>
-              Minor Safety Improvements Programme
+            Minor Improvements 2021 - 2024
             </ClientTitle>
             <RightLogo>
             

@@ -11,10 +11,14 @@
 .reports,
 .products,
 .team,
+.dashboard,
 .reports {
   display: flex;
   height: 90vh;
-  align-items: center;
-  justify-content: center;
-  font-size: 3rem;
+  margin-left: 250px
+}
+
+.dc-chart g.row text {
+  fill: black;
+  font-weight: bold;
 }
